@@ -1,0 +1,31 @@
+{
+  "name": "morningstar-equity-classification",
+  "version": "0.1.0",
+  "description": "Simple JSON map (indexed) for the equity classification system of Morningstar",
+  "main": "lib/model.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swanest/morningstar-equity-classification.git"
+  },
+  "keywords": [
+    "morningstar",
+    "json",
+    "map",
+    "classification",
+    "naics",
+    "index",
+    "data"
+  ],
+  "author": "Youri Tolstoy <ytolstoy@gmail.com> (https://swanest.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swanest/morningstar-equity-classification/issues"
+  },
+  "homepage": "https://github.com/swanest/morningstar-equity-classification#readme",
+  "devDependencies": {
+    "reverse-index": "0.0.1"
+  }
+}
