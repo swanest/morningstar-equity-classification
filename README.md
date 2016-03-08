@@ -12,7 +12,7 @@ npm install morningstar-equity-classification
 ## Usage
 
 ```javascript
-MECS = require('naics-2012');
+MECS = require('morningstar-equity-classification');
 
 MECS.all()
 //=> [ { code: 926150 }... ]
