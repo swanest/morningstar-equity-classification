@@ -15,16 +15,16 @@ npm install morningstar-equity-classification
 var MECS = require('morningstar-equity-classification');
 
 MECS.all()
-//=> [ { code: 926150 }... ]
+//=> [ { code: 1 }... ]
 
-MECS.search('coffee');
-//=> [ { code: 926150 }... ]
+MECS.search('finance');
+//=> [ { code: 10320052 }... ]
 
-MECS.find('926150');
-//=> { code: 926150 }
+MECS.find('31169148');
+//=> { code: 31169148, name: 'Solar' }
 
-MECS.above('926150');
-//=> [ { code: 92615 }, { code: 9261 }, { code: 926 }, { code: 92 }... ]
+MECS.above('31169148');
+//=> [ { code: 31169148 }, { code: 31169 }, { code: 311 }, { code: 3 }... ]
 
 MECS.below('9261');
 //=> [ { code: 92615 }, { code: 926150 }... ]
