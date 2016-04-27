@@ -1,6 +1,6 @@
 {
   "name": "morningstar-equity-classification",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Simple JSON map (indexed) for the equity classification system of Morningstar",
   "main": "lib/model.js",
   "scripts": {

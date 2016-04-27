@@ -1,2703 +1,2736 @@
 {
-  "1": {
-    "name": "Cyclical",
-    "code": 1,
-    "type": "Super Sector"
-  },
-  "2": {
-    "name": "Defensive",
-    "code": 2,
-    "type": "Super Sector"
-  },
-  "3": {
-    "name": "Sensitive",
-    "code": 3,
-    "type": "Super Sector"
-  },
-  "101": {
-    "code": 101,
-    "name": "Basic Materials",
-    "superSector": 1,
-    "sector": 101,
-    "type": "Sector"
-  },
-  "102": {
-    "code": 102,
-    "name": "Consumer Cyclical",
-    "superSector": 1,
-    "sector": 102,
-    "type": "Sector"
-  },
-  "103": {
-    "code": 103,
-    "name": "Financial Services",
-    "superSector": 1,
-    "sector": 103,
-    "type": "Sector"
-  },
-  "104": {
-    "code": 104,
-    "name": "Real Estate",
-    "superSector": 1,
-    "sector": 104,
-    "type": "Sector"
-  },
-  "205": {
-    "code": 205,
-    "name": "Consumer Defensive",
-    "superSector": 2,
-    "sector": 205,
-    "type": "Sector"
-  },
-  "206": {
-    "code": 206,
-    "name": "Healthcare",
-    "superSector": 2,
-    "sector": 206,
-    "type": "Sector"
-  },
-  "207": {
-    "code": 207,
-    "name": "Utilities",
-    "superSector": 2,
-    "sector": 207,
-    "type": "Sector"
-  },
-  "308": {
-    "code": 308,
-    "name": "Communication Services",
-    "superSector": 3,
-    "sector": 308,
-    "type": "Sector"
-  },
-  "309": {
-    "code": 309,
-    "name": "Energy",
-    "superSector": 3,
-    "sector": 309,
-    "type": "Sector"
-  },
-  "310": {
-    "code": 310,
-    "name": "Industrials",
-    "superSector": 3,
-    "sector": 310,
-    "type": "Sector"
-  },
-  "311": {
-    "code": 311,
-    "name": "Technology",
-    "superSector": 3,
-    "sector": 311,
-    "type": "Sector"
-  },
-  "10101": {
-    "code": 10101,
-    "name": "Agriculture",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10101,
-    "type": "Industry Group"
-  },
-  "10102": {
-    "code": 10102,
-    "name": "Building Materials",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10102,
-    "type": "Industry Group"
-  },
-  "10103": {
-    "code": 10103,
-    "name": "Chemicals",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10103,
-    "type": "Industry Group"
-  },
-  "10104": {
-    "code": 10104,
-    "name": "Coal",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10104,
-    "type": "Industry Group"
-  },
-  "10105": {
-    "code": 10105,
-    "name": "Forest Products",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10105,
-    "type": "Industry Group"
-  },
-  "10106": {
-    "code": 10106,
-    "name": "Metals & Mining",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10106,
-    "type": "Industry Group"
-  },
-  "10107": {
-    "code": 10107,
-    "name": "Steel",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10107,
-    "type": "Industry Group"
-  },
-  "10208": {
-    "code": 10208,
-    "name": "Advertising & Marketing Services",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10208,
-    "type": "Industry Group"
-  },
-  "10209": {
-    "code": 10209,
-    "name": "Autos",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10209,
-    "type": "Industry Group"
-  },
-  "10210": {
-    "code": 10210,
-    "name": "Entertainment",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10210,
-    "type": "Industry Group"
-  },
-  "10211": {
-    "code": 10211,
-    "name": "Homebuilding & Construction",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10211,
-    "type": "Industry Group"
-  },
-  "10212": {
-    "code": 10212,
-    "name": "Manufacturing-Apparel & Furniture",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10212,
-    "type": "Industry Group"
-  },
-  "10213": {
-    "code": 10213,
-    "name": "Packaging & Containers",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10213,
-    "type": "Industry Group"
-  },
-  "10214": {
-    "code": 10214,
-    "name": "Personal Services",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10214,
-    "type": "Industry Group"
-  },
-  "10215": {
-    "code": 10215,
-    "name": "Publishing",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10215,
-    "type": "Industry Group"
-  },
-  "10216": {
-    "code": 10216,
-    "name": "Restaurants",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10216,
-    "type": "Industry Group"
-  },
-  "10217": {
-    "code": 10217,
-    "name": "& Specialty",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10217,
-    "type": "Industry Group"
-  },
-  "10218": {
-    "code": 10218,
-    "name": "Travel & Leisure",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10218,
-    "type": "Industry Group"
-  },
-  "10319": {
-    "code": 10319,
-    "name": "Asset Management",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10319,
-    "type": "Industry Group"
-  },
-  "10320": {
-    "code": 10320,
-    "name": "Banks",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10320,
-    "type": "Industry Group"
-  },
-  "10321": {
-    "code": 10321,
-    "name": "Brokers & Exchanges",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10321,
-    "type": "Industry Group"
-  },
-  "10322": {
-    "code": 10322,
-    "name": "Credit Services",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10322,
-    "type": "Industry Group"
-  },
-  "10323": {
-    "code": 10323,
-    "name": "Insurance",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10323,
-    "type": "Industry Group"
-  },
-  "10324": {
-    "code": 10324,
-    "name": "",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10324,
-    "type": "Industry Group"
-  },
-  "10325": {
-    "code": 10325,
-    "name": "& Casualty",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10325,
-    "type": "Industry Group"
-  },
-  "10326": {
-    "code": 10326,
-    "name": "Insurance-Specialty",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10326,
-    "type": "Industry Group"
-  },
-  "10427": {
-    "code": 10427,
-    "name": "Real Estate",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10427,
-    "type": "Industry Group"
-  },
-  "10428": {
-    "code": 10428,
-    "name": "REITs",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "type": "Industry Group"
-  },
-  "20529": {
-    "code": 20529,
-    "name": "Beverages-Alcoholic",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20529,
-    "type": "Industry Group"
-  },
-  "20530": {
-    "code": 20530,
-    "name": "Beverages–",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20530,
-    "type": "Industry Group"
-  },
-  "20531": {
-    "code": 20531,
-    "name": "Consumer Packaged Goods",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20531,
-    "type": "Industry Group"
-  },
-  "20532": {
-    "code": 20532,
-    "name": "Education",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20532,
-    "type": "Industry Group"
-  },
-  "20533": {
-    "code": 20533,
-    "name": "",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20533,
-    "type": "Industry Group"
-  },
-  "20534": {
-    "code": 20534,
-    "name": "Tobacco Products",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20534,
-    "type": "Industry Group"
-  },
-  "20635": {
-    "code": 20635,
-    "name": "Biotechnology",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20635,
-    "type": "Industry Group"
-  },
-  "20636": {
-    "code": 20636,
-    "name": "Drug Manufacturers",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20636,
-    "type": "Industry Group"
-  },
-  "20637": {
-    "code": 20637,
-    "name": "Healthcare Plans",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20637,
-    "type": "Industry Group"
-  },
-  "20638": {
-    "code": 20638,
-    "name": "Healthcare Providers",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20638,
-    "type": "Industry Group"
-  },
-  "20639": {
-    "code": 20639,
-    "name": "Medical Devices",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20639,
-    "type": "Industry Group"
-  },
-  "20640": {
-    "code": 20640,
-    "name": "Medical Diagnostics & Research",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20640,
-    "type": "Industry Group"
-  },
-  "20641": {
-    "code": 20641,
-    "name": "Medical Distribution",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20641,
-    "type": "Industry Group"
-  },
-  "20642": {
-    "code": 20642,
-    "name": "Medical Instruments & Equipment",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20642,
-    "type": "Industry Group"
-  },
-  "20743": {
-    "code": 20743,
-    "name": "Utilities-Independent Power Producers",
-    "superSector": 2,
-    "sector": 207,
-    "industryGroup": 20743,
-    "type": "Industry Group"
-  },
-  "20744": {
-    "code": 20744,
-    "name": "Utilities-Regulated",
-    "superSector": 2,
-    "sector": 207,
-    "industryGroup": 20744,
-    "type": "Industry Group"
-  },
-  "30845": {
-    "code": 30845,
-    "name": "Communication Services",
-    "superSector": 3,
-    "sector": 308,
-    "industryGroup": 30845,
-    "type": "Industry Group"
-  },
-  "30946": {
-    "code": 30946,
-    "name": "Oil &",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30946,
-    "type": "Industry Group"
-  },
-  "30947": {
-    "code": 30947,
-    "name": "Oil &",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30947,
-    "type": "Industry Group"
-  },
-  "30948": {
-    "code": 30948,
-    "name": "Oil & Gas-Integrated",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30948,
-    "type": "Industry Group"
-  },
-  "30949": {
-    "code": 30949,
-    "name": "Oil & Gas-Midstream",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30949,
-    "type": "Industry Group"
-  },
-  "30950": {
-    "code": 30950,
-    "name": "Oil & & Marketing",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30950,
-    "type": "Industry Group"
-  },
-  "30951": {
-    "code": 30951,
-    "name": "Oil &",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30951,
-    "type": "Industry Group"
-  },
-  "31052": {
-    "code": 31052,
-    "name": "Aerospace & Defense",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31052,
-    "type": "Industry Group"
-  },
-  "31053": {
-    "code": 31053,
-    "name": "Airlines",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31053,
-    "type": "Industry Group"
-  },
-  "31054": {
-    "code": 31054,
-    "name": "Business Services",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31054,
-    "type": "Industry Group"
-  },
-  "31055": {
-    "code": 31055,
-    "name": "Conglomerates",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31055,
-    "type": "Industry Group"
-  },
-  "31056": {
-    "code": 31056,
-    "name": "Consulting & Outsourcing",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31056,
-    "type": "Industry Group"
-  },
-  "31057": {
-    "code": 31057,
-    "name": "Employment Services",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31057,
-    "type": "Industry Group"
-  },
-  "31058": {
-    "code": 31058,
-    "name": "Engineering & Construction",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31058,
-    "type": "Industry Group"
-  },
-  "31059": {
-    "code": 31059,
-    "name": "Farm & Construction Machinery",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31059,
-    "type": "Industry Group"
-  },
-  "31060": {
-    "code": 31060,
-    "name": "Industrial Distribution",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31060,
-    "type": "Industry Group"
-  },
-  "31061": {
-    "code": 31061,
-    "name": "Industrial Products",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31061,
-    "type": "Industry Group"
-  },
-  "31062": {
-    "code": 31062,
-    "name": "Transportation & Logistics",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31062,
-    "type": "Industry Group"
-  },
-  "31063": {
-    "code": 31063,
-    "name": "Truck Manufacturing",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31063,
-    "type": "Industry Group"
-  },
-  "31064": {
-    "code": 31064,
-    "name": "Waste Management",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31064,
-    "type": "Industry Group"
-  },
-  "31165": {
-    "code": 31165,
-    "name": "Application Software",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31165,
-    "type": "Industry Group"
-  },
-  "31166": {
-    "code": 31166,
-    "name": "Communication Equipment",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31166,
-    "type": "Industry Group"
-  },
-  "31167": {
-    "code": 31167,
-    "name": "Computer Hardware",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "type": "Industry Group"
-  },
-  "31168": {
-    "code": 31168,
-    "name": "Online Media",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31168,
-    "type": "Industry Group"
-  },
-  "31169": {
-    "code": 31169,
-    "name": "Semiconductors",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31169,
-    "type": "Industry Group"
-  },
-  "10101001": {
-    "code": 10101001,
-    "name": "Agricultural Inputs",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10101,
-    "industry": 10101001,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture nitrogenous and phosphatic",
-      "fertilizers, pesticides, seed and other agricultural chemical",
-      "products."
-    ]
-  },
-  "10102002": {
-    "code": 10102002,
-    "name": "Building Materials",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10102,
-    "industry": 10102002,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture a wide variety of building and",
-      "construction products and materials including stone, clay",
-      "and brick products, ceramic ﬂoor and wall title, plumbing,",
-      "heating and A/C equipment, framing structures and doors,",
-      "paint and other construction ﬁnishing products."
-    ]
-  },
-  "10103003": {
-    "code": 10103003,
-    "name": "Chemicals",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10103,
-    "industry": 10103003,
-    "type": "Industry",
-    "description": [
-      "Major international chemical manufacturing companies",
-      "engaged in diverse chemical and",
-      "operations."
-    ]
-  },
-  "10103004": {
-    "code": 10103004,
-    "name": "Specialty Chemicals",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10103,
-    "industry": 10103004,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture specialty chemical products",
-      "such as polishes, adhesives and sealants, explosives,",
-      "printing ink, carbon black, acids, repellants and cleaning",
-      "solutions."
-    ]
-  },
-  "10104005": {
-    "code": 10104005,
-    "name": "Coal",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10104,
-    "industry": 10104005,
-    "type": "Industry",
-    "description": ["Companies engaged in mining coal."]
-  },
-  "10105006": {
-    "code": 10105006,
-    "name": "Lumber & Wood Production",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10105,
-    "industry": 10105006,
-    "type": "Industry",
-    "description": [
-      "Companies that grow timber, mill lumber and manufacture",
-      "wood and wood products for construction."
-    ]
-  },
-  "10105007": {
-    "code": 10105007,
-    "name": "Paper & Paper Products",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10105,
-    "industry": 10105007,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and market paper and paper",
-      "related products from wood pulp and other ﬁbers."
-    ]
-  },
-  "10106008": {
-    "code": 10106008,
-    "name": "Aluminum",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10106,
-    "industry": 10106008,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the production, reﬁning, marketing,",
-      "and distribution of aluminum and related aluminum based",
-      "products."
-    ]
-  },
-  "10106009": {
-    "code": 10106009,
-    "name": "Copper",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10106,
-    "industry": 10106009,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the exploration, mining, smelting",
-      "and reﬁning of copper ores and related copper products."
-    ]
-  },
-  "10106010": {
-    "code": 10106010,
-    "name": "Gold",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10106,
-    "industry": 10106010,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in Gold ore related activities including",
-      "exploration, mining, processing, extraction and smelting."
-    ]
-  },
-  "10106011": {
-    "code": 10106011,
-    "name": "Industrial Metals & Minerals",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10106,
-    "industry": 10106011,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the mining, reﬁning, producing,",
-      "smelting and milling of miscellaneous ores including Lead,",
-      "Zinc, Uranium, Radium, Vanadium, Nickel, Tin, Coal,",
-      "Titanium, Platinum and other related materials."
-    ]
-  },
-  "10106012": {
-    "code": 10106012,
-    "name": "Silver",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10106,
-    "industry": 10106012,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in Silver ore related activities",
-      "including exploration, mining, and extraction."
-    ]
-  },
-  "10107013": {
-    "code": 10107013,
-    "name": "Steel",
-    "superSector": 1,
-    "sector": 101,
-    "industryGroup": 10107,
-    "industry": 10107013,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the production and processing of",
-      "steel and steel- and iron- based products."
-    ]
-  },
-  "10208014": {
-    "code": 10208014,
-    "name": "Advertising Agencies",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10208,
-    "industry": 10208014,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in , advertising operations",
-      "including the planning, creating, producing and placing of",
-      "advertising in various media such as TV, radio or print."
-    ]
-  },
-  "10208015": {
-    "code": 10208015,
-    "name": "Marketing Services",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10208,
-    "industry": 10208015,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in marketing related activities",
-      "including production of outdoor advertising, promotional",
-      "materials, , services and products and marketing",
-      "research services."
-    ]
-  },
-  "10209016": {
-    "code": 10209016,
-    "name": "Auto & Truck Dealerships",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10209,
-    "industry": 10209016,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the specialty retail of new and used",
-      "automobiles, trucks and other vehicles through the",
-      "operation and/or franchising of dealerships."
-    ]
-  },
-  "10209017": {
-    "code": 10209017,
-    "name": "Auto Manufacturers",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10209,
-    "industry": 10209017,
-    "type": "Industry",
-    "description": [
-      "Leading worldwide designers and manufacturers of",
-      "passenger cars and trucks."
-    ]
-  },
-  "10209018": {
-    "code": 10209018,
-    "name": "Auto Parts",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10209,
-    "industry": 10209018,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture motor vehicle parts and",
-      "accessories, but do not engage in manufacturing of",
-      "complete car bodies."
-    ]
-  },
-  "10209019": {
-    "code": 10209019,
-    "name": "Recreational Vehicles",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10209,
-    "industry": 10209019,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture a broad line of recreational",
-      "vehicles including , motor homes, campers, all",
-      "terrain vehicles, travel/camper trailers, snowmobiles and",
-      "motorcycles."
-    ]
-  },
-  "10209020": {
-    "code": 10209020,
-    "name": "Rubber & Plastics",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10209,
-    "industry": 10209020,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture rubber and plastic based",
-      "products including tires and inner tubes, hose and belting,",
-      "plastic plate, pipe and ﬁlm and other fabricated plastic and",
-      "rubber products."
-    ]
-  },
-  "10210021": {
-    "code": 10210021,
-    "name": "Companies primarily engaged in owning and operating",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10210,
-    "industry": 10210021,
-    "type": "Industry",
-    "description": [
-      "radio broadcast stations and providing and producing radio",
-      "programming services."
-    ]
-  },
-  "10210022": {
-    "code": 10210022,
-    "name": "Companies primarily engaged in owning and operating",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10210,
-    "industry": 10210022,
-    "type": "Industry",
-    "description": [
-      "television broadcast stations and providing and producing",
-      "television programming services."
-    ]
-  },
-  "10210023": {
-    "code": 10210023,
-    "name": "Large, major, entertainment operatives with diversiﬁed",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10210,
-    "industry": 10210023,
-    "type": "Industry",
-    "description": [
-      "holdings in movies, television, theme parks and other",
-      "entertainment. Includes companies primarily",
-      "engaged in the production and distribution of motion",
-      "pictures and video and the operation of movie theaters."
-    ]
-  },
-  "10211024": {
-    "code": 10211024,
-    "name": "Residential Construction",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10211,
-    "industry": 10211024,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the construction and renovation of",
-      "residential buildings such as , houses,",
-      "apartments and hotels."
-    ]
-  },
-  "10211025": {
-    "code": 10211025,
-    "name": "Textile Manufacturing",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10211,
-    "industry": 10211025,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and mill various textile",
-      "products including apparel fabrics, bedding and",
-      "accessories, home furnishing fabrics, carpets and rugs,",
-      "curtains and drapes and other milled textile products."
-    ]
-  },
-  "10212026": {
-    "code": 10212026,
-    "name": "Apparel Manufacturing",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10212,
-    "industry": 10212026,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture, design, market, source and",
-      "sell all lines of clothing for men, women and children."
-    ]
-  },
-  "10212027": {
-    "code": 10212027,
-    "name": "Footwear & Accessories",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10212,
-    "industry": 10212027,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture, design, market and sell all",
-      "lines of footwear and apparel accessories including",
-      "luggage, handbags and purses, belts and other leather",
-      "goods."
-    ]
-  },
-  "10212028": {
-    "code": 10212028,
-    "name": "Home Furnishings & Fixtures",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10212,
-    "industry": 10212028,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and market household",
-      "products such as wooden, metal and upholstered furniture,",
-      "mattresses and bedsprings and lighting ﬁxtures."
-    ]
-  },
-  "10213029": {
-    "code": 10213029,
-    "name": "Packaging & Containers",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10213,
-    "industry": 10213029,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and market a broad line of",
-      "paper, plastic, metal and glass packaging products",
-      "including corrugated boxes, cardboard containers, bottles,",
-      "cans and plastic foam and food containers."
-    ]
-  },
-  "10214030": {
-    "code": 10214030,
-    "name": "Personal Services",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10214,
-    "industry": 10214030,
-    "type": "Industry",
-    "description": [
-      "Companies that provide services of a personal nature or",
-      "that are particularly structured for the individual or group",
-      "being served including veterinary services, funeral and",
-      "cemetery services, child care services, portrait and photo",
-      "services, tax preparation and legal services and other",
-      "miscellaneous personal services."
-    ]
-  },
-  "10215031": {
-    "code": 10215031,
-    "name": "Publishing",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10215,
-    "industry": 10215031,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the publishing of",
-      "periodicals such as magazines, comic books, trade journals,",
-      "books, pamphlets and newspapers."
-    ]
-  },
-  "10216032": {
-    "code": 10216032,
-    "name": "Restaurants",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10216,
-    "industry": 10216032,
-    "type": "Industry",
-    "description": [
-      "Companies that own, operate, and franchise",
-      "restaurants that engage in the retail sale of a wide variety",
-      "of prepared food and drink."
-    ]
-  },
-  "10217033": {
-    "code": 10217033,
-    "name": "Apparel Stores",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10217,
-    "industry": 10217033,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the retail sale of men's, women's",
-      "and/or children's clothing, shoes and accessories."
-    ]
-  },
-  "10217034": {
-    "code": 10217034,
-    "name": "Department Stores",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10217,
-    "industry": 10217034,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the retail sale of a diverse mix of",
-      "merchandise emphasizing fashion apparel and accessories,",
-      "home furnishings, electronics and cosmetics."
-    ]
-  },
-  "10217035": {
-    "code": 10217035,
-    "name": "Home Improvement Stores",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10217,
-    "industry": 10217035,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the retail sale of",
-      "items such as lumber, hardware and other building",
-      "materials, plants and other garden supplies and various",
-      "other items for the home."
-    ]
-  },
-  "10217036": {
-    "code": 10217036,
-    "name": "Luxury Goods",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10217,
-    "industry": 10217036,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the specialty retail of luxury items",
-      "including jewelry, watches, crystal, clothing, handbags, and",
-      "accessories."
-    ]
-  },
-  "10217037": {
-    "code": 10217037,
-    "name": "Specialty Retail",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10217,
-    "industry": 10217037,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the specialty retail of various goods",
-      "and products not covered in a speciﬁc industry group. This",
-      "group includes retailers such as bookstores,",
-      "stores, gas stations, pawn shops, novelty shops, auto part",
-      "stores, electronic stocks, home furnishing stores, sporting",
-      "good stores, toy and hobby stores, music and video stores,",
-      "and many other miscellaneous retailers."
-    ]
-  },
-  "10218038": {
-    "code": 10218038,
-    "name": "Gambling",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10218,
-    "industry": 10218038,
-    "type": "Industry",
-    "description": [
-      "Companies that own, operate, or manage lawful gaming",
-      "activities and events such as horse and dog racing, online",
-      "gaming, bingo, and video lottery, as well as companies that",
-      "supply products or services to gaming operators."
-    ]
-  },
-  "10218039": {
-    "code": 10218039,
-    "name": "Leisure",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10218,
-    "industry": 10218039,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture, design, market and sell",
-      "bicycles, sporting goods, recreational equipment, toys and",
-      "other leisure- or , products or services."
-    ]
-  },
-  "10218040": {
-    "code": 10218040,
-    "name": "Lodging",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10218,
-    "industry": 10218040,
-    "type": "Industry",
-    "description": [
-      "Companies that develop, manage, own and operate lodging",
-      "facilities including motels, , and",
-      "hotels and economy hotels and inns."
-    ]
-  },
-  "10218041": {
-    "code": 10218041,
-    "name": "Resorts & Casinos",
-    "superSector": 1,
-    "sector": 102,
-    "industryGroup": 10218,
-    "industry": 10218041,
-    "type": "Industry",
-    "description": [
-      "Companies that own, operate, and manage resort",
-      "properties including beach clubs, , properties and",
-      "luxury resort hotels and that conduct casino gaming",
-      "operations."
-    ]
-  },
-  "10319042": {
-    "code": 10319042,
-    "name": "Asset Management",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10319,
-    "industry": 10319042,
-    "type": "Industry",
-    "description": [
-      "Investment management ﬁrms offering diversiﬁed services",
-      "such as asset administration, investment advice, portfolio",
-      "or mutual fund management, money management, venture",
-      "capital and investment research."
-    ]
-  },
-  "10320043": {
-    "code": 10320043,
-    "name": "Large, global, diverse ﬁnancial institutions serving the",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10320,
-    "industry": 10320043,
-    "type": "Industry",
-    "description": ["corporate, consumer needs of retail banking, investment"]
-  },
-  "10320049": {
-    "code": 10320049,
-    "name": "America",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10320,
-    "industry": 10320049,
-    "type": "Industry",
-    "description": [
-      "Large, regional, diverse ﬁnancial institutions serving the",
-      "corporate, government and consumer needs of retail",
-      "banking, investment banking, trust management, credit",
-      "cards and mortgage banking in Latin America."
-    ]
-  },
-  "10320050": {
-    "code": 10320050,
-    "name": "Large, regional, diverse ﬁnancial institutions serving the",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10320,
-    "industry": 10320050,
-    "type": "Industry",
-    "description": [
-      "corporate, government and consumer needs of retail",
-      "banking, investment banking, trust management, credit",
-      "cards and mortgage banking in the United States."
-    ]
-  },
-  "10320051": {
-    "code": 10320051,
-    "name": "Savings & Cooperative Banks",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10320,
-    "industry": 10320051,
-    "type": "Industry",
-    "description": [
-      "Savings and loan associations, building societies,",
-      "cooperative banks, homestead associations, home",
-      "ﬁnancing, and thrift institutions."
-    ]
-  },
-  "10320052": {
-    "code": 10320052,
-    "name": "Specialty Finance",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10320,
-    "industry": 10320052,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in originating, purchasing, selling and",
-      "servicing home mortgage and equity loans."
-    ]
-  },
-  "10321053": {
-    "code": 10321053,
-    "name": "Capital Markets",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10321,
-    "industry": 10321053,
-    "type": "Industry",
-    "description": [
-      "Large, major investment houses offering wide variety of",
-      "investment banking, underwriting, brokerage, research and",
-      "advisory services to broad based national and international",
-      "market."
-    ]
-  },
-  "10321054": {
-    "code": 10321054,
-    "name": "Financial Exchanges",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10321,
-    "industry": 10321054,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the operation of security",
-      "exchanges."
-    ]
-  },
-  "10321055": {
-    "code": 10321055,
-    "name": "Insurance Brokers",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10321,
-    "industry": 10321055,
-    "type": "Industry",
-    "description": [
-      "Companies acting primarily as agents or intermediaries in",
-      "creating insurance contracts between clients and insurance",
-      "companies."
-    ]
-  },
-  "10322056": {
-    "code": 10322056,
-    "name": "Credit Services",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10322,
-    "industry": 10322056,
-    "type": "Industry",
-    "description": [
-      "Companies that extend credit and make loans to individuals",
-      "and business enterprises through credit cards, installment"
-    ]
-  },
-  "10323057": {
-    "code": 10323057,
-    "name": "Insurance companies with diversiﬁed interests in life,",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10323,
-    "industry": 10323057,
-    "type": "Industry",
-    "description": ["health, and property and casualty insurance."]
-  },
-  "10324058": {
-    "code": 10324058,
-    "name": "Companies primarily engaged in the underwriting,",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10324,
-    "industry": 10324058,
-    "type": "Industry",
-    "description": [
-      "marketing and distribution of life insurance and related",
-      "products to individuals and families."
-    ]
-  },
-  "10325059": {
-    "code": 10325059,
-    "name": "& Casualty",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10325,
-    "industry": 10325059,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the underwriting,",
-      "marketing and distribution of ﬁre, marine and casualty",
-      "insurance for property and other tangible assets."
-    ]
-  },
-  "10326060": {
-    "code": 10326060,
-    "name": "Companies primarily engaged in the underwriting and sale",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10326,
-    "industry": 10326060,
-    "type": "Industry",
-    "description": ["of reinsurance."]
-  },
-  "10326061": {
-    "code": 10326061,
-    "name": "Companies primarily engaged in the underwriting,",
-    "superSector": 1,
-    "sector": 103,
-    "industryGroup": 10326,
-    "industry": 10326061,
-    "type": "Industry",
-    "description": [
-      "marketing and distribution of accident and health, sickness",
-      "and other specialty or supplemental insurance to",
-      "individuals and families."
-    ]
-  },
-  "10427062": {
-    "code": 10427062,
-    "name": "Real",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10427,
-    "industry": 10427062,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in subdividing and developing real",
-      "estate to be held in inventory or to be sold to others."
-    ]
-  },
-  "10427063": {
-    "code": 10427063,
-    "name": "Real Estate Services",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10427,
-    "industry": 10427063,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in acquiring, selling, developing,",
-      "operating, managing and leasing real property including",
-      "commercial and industrial properties, apartments and retail",
-      "sites."
-    ]
-  },
-  "10428064": {
-    "code": 10428064,
-    "name": "Real Estate Investment Trusts engaged",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "industry": 10428064,
-    "type": "Industry",
-    "description": [
-      "in the acquisition, management and disposition of",
-      "diversiﬁed property holdings, with no speciﬁc portfolio",
-      "composition."
-    ]
-  },
-  "10428065": {
-    "code": 10428065,
-    "name": "Facilities",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "industry": 10428065,
-    "type": "Industry",
-    "description": [
-      "Real Estate Investment Trusts engaged",
-      "in the acquisition, management and disposition of",
-      "properties including , care facilities,",
-      "acute care and rehab hospitals, psychiatric facilities and",
-      "centers."
-    ]
-  },
-  "10428066": {
-    "code": 10428066,
-    "name": "& Motel",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "industry": 10428066,
-    "type": "Industry",
-    "description": [
-      "Real Estate Investment Trusts engaged",
-      "in the acquisition, management and disposition of lodging",
-      "properties including full and limited service hotels and",
-      "motels."
-    ]
-  },
-  "10428067": {
-    "code": 10428067,
-    "name": "Real Estate Investment Trusts engaged",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "industry": 10428067,
-    "type": "Industry",
-    "description": [
-      "in the acquisition, management and disposition of",
-      "industrial purpose properties including bulk warehouses,",
-      "facilities, distribution facilities and other light",
-      "industrial facilities."
-    ]
-  },
-  "10428068": {
-    "code": 10428068,
-    "name": "Real Estate Investment Trusts engaged",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "industry": 10428068,
-    "type": "Industry",
-    "description": [
-      "in the acquisition, management and disposition of ofﬁce",
-      "properties including ofﬁce buildings, complexes and",
-      "centers."
-    ]
-  },
-  "10428069": {
-    "code": 10428069,
-    "name": "Real Estate Investment Trusts engaged",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "industry": 10428069,
-    "type": "Industry",
-    "description": [
-      "in the acquisition, management and disposition of",
-      "residential properties including apartments,",
-      "and , mortgage loans, manufactured housing,",
-      "parks and other residential properties."
-    ]
-  },
-  "10428070": {
-    "code": 10428070,
-    "name": "Real Estate Investment Trusts engaged",
-    "superSector": 1,
-    "sector": 104,
-    "industryGroup": 10428,
-    "industry": 10428070,
-    "type": "Industry",
-    "description": [
-      "in the acquisition, management and disposition of retail",
-      "properties including community shopping centers, factory",
-      "outlet shopping centers, enclosed shopping mall centers,",
-      "strip centers, restaurant and other retail properties."
-    ]
-  },
-  "20529071": {
-    "code": 20529071,
-    "name": "Companies that manufacture malt based beverages, beers",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20529,
-    "industry": 20529071,
-    "type": "Industry",
-    "description": ["and ales."]
-  },
-  "20529072": {
-    "code": 20529072,
-    "name": "& Distilleries",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20529,
-    "industry": 20529072,
-    "type": "Industry",
-    "description": ["Companies that manufacture distilled liquors and wine."]
-  },
-  "20530073": {
-    "code": 20530073,
-    "name": "Drinks",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20530,
-    "industry": 20530073,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and bottle soft drinks,",
-      "carbonated and spring water, fruit juices and other",
-      "beverages."
-    ]
-  },
-  "20531074": {
-    "code": 20531074,
-    "name": "Confectioners",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20531,
-    "industry": 20531074,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and reﬁne raw sugar, syrup or",
-      "ﬁnished cane and beet sugar, candy and chewing gum,",
-      "chocolate and cocoa products."
-    ]
-  },
-  "20531075": {
-    "code": 20531075,
-    "name": "Farm Products",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20531,
-    "industry": 20531075,
-    "type": "Industry",
-    "description": [
-      "Companies that produce, raise and grow agricultural and",
-      "food products including fruits, vegetables, other",
-      "crop products, cattle and eggs. Also includes seafood",
-      "products."
-    ]
-  },
-  "20531076": {
-    "code": 20531076,
-    "name": "Household & Personal Products",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20531,
-    "industry": 20531076,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and market soaps and other",
-      "detergents, polishing and sanitation goods and produce",
-      "glycerin from vegetable and animal fats and oils. Also",
-      "includes companies that manufacture and market personal",
-      "care products including perfume, cosmetics and other toilet",
-      "preparations, infant and adult sanitary paper products,",
-      "shaving razors and blades."
-    ]
-  },
-  "20531077": {
-    "code": 20531077,
-    "name": "Packaged Foods",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20531,
-    "industry": 20531077,
-    "type": "Industry",
-    "description": [
-      "Companies that process and package food products",
-      "including frozen foods, grain products, canned foods, snack",
-      "foods and pet products."
-    ]
-  },
-  "20532078": {
-    "code": 20532078,
-    "name": "Education & Training Services",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20532,
-    "industry": 20532078,
-    "type": "Industry",
-    "description": [
-      "Companies that provide educational and training services",
-      "including college and , courses, higher-",
-      "education programs, technical and vocational training and",
-      "other , services."
-    ]
-  },
-  "20533079": {
-    "code": 20533079,
-    "name": "Discount Stores",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20533,
-    "industry": 20533079,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the retail sale of a variety of",
-      "merchandise in low and discounted price ranges."
-    ]
-  },
-  "20533080": {
-    "code": 20533080,
-    "name": "Pharmaceutical Retailers",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20533,
-    "industry": 20533080,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the retail sale of prescription drugs",
-      "and patent medicines as well as a number of related lines",
-      "such as cosmetics, toiletries and novelty merchandise."
-    ]
-  },
-  "20533081": {
-    "code": 20533081,
-    "name": "Food Distribution",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20533,
-    "industry": 20533081,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the distribution and supply",
-      "of food products including packaged goods, meat, dairy",
-      "products, frozen foods and related groceries to grocery",
-      "stores, restaurants and other , centers."
-    ]
-  },
-  "20533082": {
-    "code": 20533082,
-    "name": "Grocery Stores",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20533,
-    "industry": 20533082,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the retail sale of groceries including",
-      "dry goods, meat, produce, frozen foods, diary products,",
-      "seafood, deli/bakery and nonfood items."
-    ]
-  },
-  "20534083": {
-    "code": 20534083,
-    "name": "Tobacco",
-    "superSector": 2,
-    "sector": 205,
-    "industryGroup": 20534,
-    "industry": 20534083,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and market cigarettes, snuff,",
-      "cigars, chewing tobacco and all other tobacco products."
-    ]
-  },
-  "20635084": {
-    "code": 20635084,
-    "name": "Biotechnology",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20635,
-    "industry": 20635084,
-    "type": "Industry",
-    "description": [
-      "Biotech and biopharmaceutical companies engaged in",
-      "research, discovery, development and production of",
-      "innovative drug and , technologies."
-    ]
-  },
-  "20636085": {
-    "code": 20636085,
-    "name": "Drug",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20636,
-    "industry": 20636085,
-    "type": "Industry",
-    "description": [
-      "Major, global pharmaceutical manufacturers offering a",
-      "broad and diverse line of drug and healthcare products;",
-      "industry leaders that have made a signiﬁcant commitment",
-      "to the research and development of a long pipeline of",
-      "drugs."
-    ]
-  },
-  "20636086": {
-    "code": 20636086,
-    "name": "Drug , & Generic",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20636,
-    "industry": 20636086,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in development and discovery of",
-      "branded forms of drug, , products and generic",
-      "drug products."
-    ]
-  },
-  "20637087": {
-    "code": 20637087,
-    "name": "Healthcare Plans",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20637,
-    "industry": 20637087,
-    "type": "Industry",
-    "description": [
-      "Companies that offer and provide a wide variety of",
-      "managed health and dental care products and services",
-      "including HMO’s, PPO’s and other health insurance plans."
-    ]
-  },
-  "20638088": {
-    "code": 20638088,
-    "name": "Care Facilities",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20638,
-    "industry": 20638088,
-    "type": "Industry",
-    "description": [
-      "Companies that operate , care facilities such as",
-      "centers and nursing and retirement homes",
-      "while providing wide range of , services."
-    ]
-  },
-  "20638089": {
-    "code": 20638089,
-    "name": "Medical Care",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20638,
-    "industry": 20638089,
-    "type": "Industry",
-    "description": [
-      "Companies that provide medical services through the",
-      "ownership and operation of general medical hospitals,",
-      "psychiatric hospitals and other , hospitals",
-      "such as , centers."
-    ]
-  },
-  "20639090": {
-    "code": 20639090,
-    "name": "Medical Devices",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20639,
-    "industry": 20639090,
-    "type": "Industry",
-    "description": [
-      "Companies that develop, manufacture, and market medical",
-      "and surgical equipment and machinery including orthopedic",
-      "products, respiratory care equipment, wheelchairs,",
-      "equipment, laser systems and other major medical",
-      "machines and apparatus."
-    ]
-  },
-  "20640091": {
-    "code": 20640091,
-    "name": "Diagnostics & Research",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20640,
-    "industry": 20640091,
-    "type": "Industry",
-    "description": [
-      "Companies that provide laboratory testing services through",
-      "imaging and other diagnostic services to the medical and",
-      "dental market. Includes companies that develop,",
-      "manufacture and market products for detection, prevention",
-      "and treatment of human health problems including",
-      "diagnostic screening products and testing kits, blood",
-      "analysis systems, gene therapy and detection systems."
-    ]
-  },
-  "20641092": {
-    "code": 20641092,
-    "name": "Medical Distribution",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20641,
-    "industry": 20641092,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the distribution and supply",
-      "of medical instruments and supplies, ophthalmic goods and",
-      "other , items to the medical and",
-      "industry."
-    ]
-  },
-  "20642093": {
-    "code": 20642093,
-    "name": "Medical Instruments & Supplies",
-    "superSector": 2,
-    "sector": 206,
-    "industryGroup": 20642,
-    "industry": 20642093,
-    "type": "Industry",
-    "description": [
-      "Companies that develop, design, manufacture and market",
-      "medical and dental instruments and supplies including",
-      "catheters, needles, implants, syringes, values, eye wear,",
-      "and eye care products and other health related devices and",
-      "supplies."
-    ]
-  },
-  "20743094": {
-    "code": 20743094,
-    "name": "Power Producers",
-    "superSector": 2,
-    "sector": 207,
-    "industryGroup": 20743,
-    "industry": 20743094,
-    "type": "Industry",
-    "description": [
-      "Companies that own and operate merchant power",
-      "generation facilities and sell electricity into retail and",
-      "wholesale markets."
-    ]
-  },
-  "20744095": {
-    "code": 20744095,
-    "name": "Companies engaged in the regulated generation,",
-    "superSector": 2,
-    "sector": 207,
-    "industryGroup": 20744,
-    "industry": 20744095,
-    "type": "Industry",
-    "description": [
-      "transmission and/or distribution of electricity and natural",
-      "gas, and own and operate merchant power generation",
-      "facilities and energy marketing operations."
-    ]
-  },
-  "20744096": {
-    "code": 20744096,
-    "name": "Electric",
-    "superSector": 2,
-    "sector": 207,
-    "industryGroup": 20744,
-    "industry": 20744096,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the generation, transmission and/or",
-      "distribution of electric energy for sale."
-    ]
-  },
-  "20744097": {
-    "code": 20744097,
-    "name": "Gas",
-    "superSector": 2,
-    "sector": 207,
-    "industryGroup": 20744,
-    "industry": 20744097,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the transmission, storage and/or",
-      "distribution of natural gas."
-    ]
-  },
-  "20744098": {
-    "code": 20744098,
-    "name": "Water",
-    "superSector": 2,
-    "sector": 207,
-    "industryGroup": 20744,
-    "industry": 20744098,
-    "type": "Industry",
-    "description": ["Companies engaged in distributing water for sale."]
-  },
-  "30845099": {
-    "code": 30845099,
-    "name": "Companies primarily engaged in cable television services",
-    "superSector": 3,
-    "sector": 308,
-    "industryGroup": 30845,
-    "industry": 30845099,
-    "type": "Industry",
-    "description": [
-      "and transmissions and other , programming",
-      "and services."
-    ]
-  },
-  "30845100": {
-    "code": 30845100,
-    "name": "Telecom Services",
-    "superSector": 3,
-    "sector": 308,
-    "industryGroup": 30845,
-    "industry": 30845100,
-    "type": "Industry",
-    "description": [
-      "Companies that provide various local, national,",
-      "international and , phone services, as well as",
-      "companies offering mobile communication products and",
-      "wireless services such as paging and messaging. Also",
-      "includes companies that provide services for faxing,",
-      "prepaid phone cards, pay phones, and directory assistance,",
-      "or that provide internet access services."
-    ]
-  },
-  "30946101": {
-    "code": 30946101,
-    "name": "Oil & Gas Drilling",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30946,
-    "industry": 30946101,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in contract drilling and",
-      "exploration for petroleum and natural gas, including",
-      "offshore and onshore drilling as well as related oil well and",
-      "contracting services."
-    ]
-  },
-  "30947102": {
-    "code": 30947102,
-    "name": "Oil & Gas E&P",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30947,
-    "industry": 30947102,
-    "type": "Industry",
-    "description": [
-      "Energy companies which are primarily engaged in gas",
-      "exploration and production."
-    ]
-  },
-  "30948103": {
-    "code": 30948103,
-    "name": "Oil & Gas Integrated",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30948,
-    "industry": 30948103,
-    "type": "Industry",
-    "description": [
-      "Major energy companies engaged in the diverse aspects of",
-      "oil and gas operations including crude oil & gas",
-      "exploration, production, manufacturing, reﬁning, marketing",
-      "and transportation."
-    ]
-  },
-  "30949104": {
-    "code": 30949104,
-    "name": "Oil & Gas Midstream",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30949,
-    "industry": 30949104,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in owning and operating",
-      "oilﬁeld pipelines involving the gathering, processing and",
-      "transportation of natural crude petroleum."
-    ]
-  },
-  "30950105": {
-    "code": 30950105,
-    "name": "Oil & Gas Reﬁning & Marketing",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30950,
-    "industry": 30950105,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the reﬁning, gathering,",
-      "marketing and selling of petroleum and petroleum products."
-    ]
-  },
-  "30951106": {
-    "code": 30951106,
-    "name": "Oil & Gas Equipment & Services",
-    "superSector": 3,
-    "sector": 309,
-    "industryGroup": 30951,
-    "industry": 30951106,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in providing oilﬁeld services",
-      "and equipment such as contract drilling, seismic surveys,",
-      "equipment and tool rental, pumping and processing",
-      "services, inspection and contracting services."
-    ]
-  },
-  "31052107": {
-    "code": 31052107,
-    "name": "Aerospace & Defense",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31052,
-    "industry": 31052107,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture a wide variety of aerospace/",
-      "defense products including aircraft and aircraft parts,",
-      "guided missiles and space vehicles, ships and marine",
-      "equipment and other related aerospace/defense",
-      "components and systems as, well as companies supporting",
-      "these products through repair and maintenance services."
-    ]
-  },
-  "31053108": {
-    "code": 31053108,
-    "name": "Airlines",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31053,
-    "industry": 31053108,
-    "type": "Industry",
-    "description": [
-      "Passenger airline companies that ﬂy a wide range of",
-      "domestic and international routes."
-    ]
-  },
-  "31054109": {
-    "code": 31054109,
-    "name": "Business Services",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31054,
-    "industry": 31054109,
-    "type": "Industry",
-    "description": [
-      "Companies that provide services to the commercial or",
-      "business market including information distribution, printing,",
-      "warehousing, credit reporting, graphic design, accounting",
-      "and other miscellaneous services."
-    ]
-  },
-  "31055110": {
-    "code": 31055110,
-    "name": "Conglomerates",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31055,
-    "industry": 31055110,
-    "type": "Industry",
-    "description": [
-      "Companies that are in several separate lines of business",
-      "with no single line of business providing the dominant",
-      "source of revenue or income. Also includes , and",
-      "holding companies."
-    ]
-  },
-  "31056111": {
-    "code": 31056111,
-    "name": "Rental & Leasing Services",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31056,
-    "industry": 31056111,
-    "type": "Industry",
-    "description": [
-      "Companies that rent or lease various durable goods to the",
-      "commercial and consumer market including cars and trucks,",
-      "medical and industrial equipment, appliances and tools and",
-      "other miscellaneous goods."
-    ]
-  },
-  "31056112": {
-    "code": 31056112,
-    "name": "Security & Protection Services",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31056,
-    "industry": 31056112,
-    "type": "Industry",
-    "description": [
-      "Companies that provide a broad line of security and",
-      "protective services including protective or preventive",
-      "devices, security guards and inspection services, security",
-      "alarm and monitoring systems, detention and correction",
-      "facilities and other , services."
-    ]
-  },
-  "31057113": {
-    "code": 31057113,
-    "name": "Stafﬁng & Outsourcing Services",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31057,
-    "industry": 31057113,
-    "type": "Industry",
-    "description": [
-      "Companies that provide diverse stafﬁng and employment",
-      "services including temporary stafﬁng and permanent",
-      "placement, outsourcing and other",
-      "services to businesses and government."
-    ]
-  },
-  "31058114": {
-    "code": 31058114,
-    "name": "Engineering & Construction",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31058,
-    "industry": 31058114,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the design, construction or",
-      "contracting of industrial and nonresidential structures,",
-      "streets and highways, bridges and tunnels, docks and piers,",
-      "dams and water projects, utility lines and other large",
-      "building projects. Also includes companies engaged in",
-      "engineering consulting and architectural services to various",
-      "consumer and commercial clients."
-    ]
-  },
-  "31058115": {
-    "code": 31058115,
-    "name": "Infrastructure Operations",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31058,
-    "industry": 31058115,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in developing, ﬁnancing, maintaining",
-      "and managing of infrastructure operations such as airports",
-      "and roadways."
-    ]
-  },
-  "31059116": {
-    "code": 31059116,
-    "name": "Farm & Construction Machinery",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31059,
-    "industry": 31059116,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture agricultural and construction",
-      "machinery including tractors, planting and harvesting",
-      "machines, cranes, earthmovers, excavators and other",
-      "related equipment and machinery."
-    ]
-  },
-  "31060117": {
-    "code": 31060117,
-    "name": "Industrial Distribution",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31060,
-    "industry": 31060117,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the distribution and supply",
-      "of industrial equipment including construction and farming",
-      "machinery, garden equipment and supplies and other",
-      "industrial items to diversiﬁed market of redistributors and"
-    ]
-  },
-  "31061118": {
-    "code": 31061118,
-    "name": "Business Equipment",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31061,
-    "industry": 31061118,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and market ofﬁce and",
-      "business machines such as copiers, fax machines, postage",
-      "meters, , terminals, ATM's and ofﬁce furniture",
-      "and ﬁxtures."
-    ]
-  },
-  "31061119": {
-    "code": 31061119,
-    "name": "Diversiﬁed Industrials",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31061,
-    "industry": 31061119,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in diversiﬁed machinery manufacturing",
-      "operations including paper and food production machines,",
-      "printing machinery, engines and turbines, air and gas",
-      "processors, blowers and fans, furnaces and ovens and",
-      "other general and special industry machines."
-    ]
-  },
-  "31061120": {
-    "code": 31061120,
-    "name": "Metal Fabrication",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31061,
-    "industry": 31061120,
-    "type": "Industry",
-    "description": [
-      "Companies that fabricate, stamp or form iron, steel or other",
-      "metals into products such as structured components, auto",
-      "and aircraft assemblies, tanks and vessels and other",
-      "industrial products."
-    ]
-  },
-  "31061121": {
-    "code": 31061121,
-    "name": "Pollution & Treatment Controls",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31061,
-    "industry": 31061121,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture equipment designed to",
-      "control pollution including control systems, hazardous",
-      "waste disposal systems, recovery systems, treatment",
-      "processes, ﬁltration systems, cleaning and separation",
-      "applications and recycling machinery."
-    ]
-  },
-  "31061122": {
-    "code": 31061122,
-    "name": "Tools & Accessories",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31061,
-    "industry": 31061122,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture small, , tools",
-      "including power driven drills, welding apparatus, lawn and",
-      "garden equipment and other power or manually operated",
-      "tools and accessories such as hardware, nuts, bolts, rivets",
-      "and other fasteners."
-    ]
-  },
-  "31062123": {
-    "code": 31062123,
-    "name": "Airports & Air Services",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31062,
-    "industry": 31062123,
-    "type": "Industry",
-    "description": [
-      "Air transportation companies that provide related air",
-      "services including helicopter transportation,",
-      "services and other air emergency and business related",
-      "services."
-    ]
-  },
-  "31062124": {
-    "code": 31062124,
-    "name": "Integrated Shipping & Logistics",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31062,
-    "industry": 31062124,
-    "type": "Industry",
-    "description": [
-      "Companies that provide transportation of freight and cargo",
-      "via diversiﬁed methods such as trucks, airline, water and",
-      "railways."
-    ]
-  },
-  "31062125": {
-    "code": 31062125,
-    "name": "Railroads",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31062,
-    "industry": 31062125,
-    "type": "Industry",
-    "description": [
-      "Companies that provide transportation of passengers and",
-      "freight by , railroad as well as related railroad",
-      "equipment and repair services."
-    ]
-  },
-  "31062126": {
-    "code": 31062126,
-    "name": "Shipping & Ports",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31062,
-    "industry": 31062126,
-    "type": "Industry",
-    "description": [
-      "Companies that provide transportation of freight and cargo",
-      "via water and water ways."
-    ]
-  },
-  "31062127": {
-    "code": 31062127,
-    "name": "Trucking",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31062,
-    "industry": 31062127,
-    "type": "Industry",
-    "description": [
-      "Companies that provide local and , trucking and",
-      "transfer services for freight and cargo."
-    ]
-  },
-  "31063128": {
-    "code": 31063128,
-    "name": "Truck Manufacturing",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31063,
-    "industry": 31063128,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the manufacturing of trucks that",
-      "provide local and , trucking and transfer services",
-      "for freight and cargo."
-    ]
-  },
-  "31064129": {
-    "code": 31064129,
-    "name": "Waste Management",
-    "superSector": 3,
-    "sector": 310,
-    "industryGroup": 31064,
-    "industry": 31064129,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the collection, treatment, storage,",
-      "transfer, recycling and disposal of waste materials as well",
-      "as companies providing supporting environmental,",
-      "engineering and consulting services."
-    ]
-  },
-  "31165130": {
-    "code": 31165130,
-    "name": "Electronic Gaming & Multimedia",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31165,
-    "industry": 31165130,
-    "type": "Industry",
-    "description": [
-      "Companies that primarily develop or publish video games",
-      "and other multimedia software applications for a variety of",
-      "devices including personal computers, video game systems,",
-      "cell phones, tablets, and other portable media players."
-    ]
-  },
-  "31165132": {
-    "code": 31165132,
-    "name": "Information Technology Services",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31165,
-    "industry": 31165132,
-    "type": "Industry",
-    "description": [
-      "Companies that provide computer technology consulting,",
-      "development and implementation services."
-    ]
-  },
-  "31165133": {
-    "code": 31165133,
-    "name": "Companies that primarily design, develop, market and",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31165,
-    "industry": 31165133,
-    "type": "Industry",
-    "description": [
-      "support enterprise application software including producers",
-      "of client/server software solutions for supply chain",
-      "management, document management, relational database",
-      "management, security software, ﬁnancial applications and",
-      "any other application that serves or solves a particular",
-      "business or individual need. Also includes technical",
-      "software such as design automation, analysis and",
-      "optimization, , design (CAD) and computer-",
-      "aided engineering (CAE), systems software and utilities,",
-      "and scientiﬁc and engineering software."
-    ]
-  },
-  "31165134": {
-    "code": 31165134,
-    "name": "Companies that develop, design, support and provide",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31165,
-    "industry": 31165134,
-    "type": "Industry",
-    "description": [
-      "software and services for various business applications",
-      "including retail automation, transactions and billing,",
-      "stafﬁng and , banking and accounting,",
-      "information management and other software and",
-      "services aimed at businesses as well as companies",
-      "providing computer leasing and repair services."
-    ]
-  },
-  "31166135": {
-    "code": 31166135,
-    "name": "Communication Equipment",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31166,
-    "industry": 31166135,
-    "type": "Industry",
-    "description": [
-      "Companies that design, develop, manufacture and market",
-      "equipment for the communication industry including ﬁber",
-      "optic cable, telecom peripherals, voice and data",
-      "transmission and processing equipment, digital switching,",
-      "signaling and accessing products, microwave radios,",
-      "satellite products and equipment,",
-      "products, , systems,",
-      "systems & equipment, and interactive communication",
-      "systems. Includes companies that offer and provide",
-      "networking products that provide connectivity solutions for",
-      "computing environments."
-    ]
-  },
-  "31167136": {
-    "code": 31167136,
-    "name": "Computer Distribution",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167136,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the distribution, supply",
-      "and support of computers and computer systems,",
-      "peripheral equipment and software and other technological",
-      "goods to various"
-    ]
-  },
-  "31167137": {
-    "code": 31167137,
-    "name": "Computer Systems",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167137,
-    "type": "Industry",
-    "description": [
-      "Companies that primarily design, manufacture, support, and",
-      "market computer systems including desktop PCs, laptops,",
-      "and notebooks, as well as , mainframes, servers,",
-      "and super computers. Also includes companies that",
-      "manufacture and market peripheral hardware products",
-      "including printers and scanners."
-    ]
-  },
-  "31167138": {
-    "code": 31167138,
-    "name": "Consumer Electronics",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167138,
-    "type": "Industry",
-    "description": [
-      "Companies that manufacture and market household audio",
-      "and video equipment including radios, stereos, television",
-      "sets and VCRs."
-    ]
-  },
-  "31167139": {
-    "code": 31167139,
-    "name": "Contract Manufacturers",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167139,
-    "type": "Industry",
-    "description": [
-      "Companies that design, develop, manufacture and market",
-      "printed circuit boards, circuit assemblies and related",
-      "electronic products."
-    ]
-  },
-  "31167140": {
-    "code": 31167140,
-    "name": "Data Storage",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167140,
-    "type": "Industry",
-    "description": [
-      "Companies that primarily design, manufacture, develop,",
-      "service and market data storage products for computer",
-      "based information including tape storage systems, hard and",
-      "magnetic disk drive systems, optical data storage products,",
-      "removable cartridge hard drives and other storage and",
-      "backup devices."
-    ]
-  },
-  "31167141": {
-    "code": 31167141,
-    "name": "Electronic Components",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167141,
-    "type": "Industry",
-    "description": [
-      "Companies that design, develop, manufacture and market a",
-      "wide variety of electronic devices including electron tubes,",
-      "electronic capacitors, electronic resistors, electronic coil",
-      "and transformers, electronic connectors and other general-",
-      "purpose electronics components and products."
-    ]
-  },
-  "31167142": {
-    "code": 31167142,
-    "name": "Electronics Distribution",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167142,
-    "type": "Industry",
-    "description": [
-      "Companies primarily engaged in the distribution and supply",
-      "of electronic equipment and appliances, electrical cable,",
-      "wires and other components and parts to wide array of",
-      "consumer, commercial and manufacturing customers."
-    ]
-  },
-  "31167143": {
-    "code": 31167143,
-    "name": "Scientiﬁc & Technical Instruments",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31167,
-    "industry": 31167143,
-    "type": "Industry",
-    "description": [
-      "Companies that design, develop, manufacture and market",
-      "sophisticated electronics of a technical nature, including",
-      "lab apparatus, process and ﬂow control devices, precise",
-      "measurement and signal processing tools, search and",
-      "navigation equipment, as well as other scientiﬁc or",
-      "technically based analytical or measuring devices"
-    ]
-  },
-  "31168144": {
-    "code": 31168144,
-    "name": "Internet Content & Information",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31168,
-    "industry": 31168144,
-    "type": "Industry",
-    "description": [
-      "Companies that provide Internet navigation services and",
-      "reference guide information for the World Wide Web and",
-      "that publish, provide or present proprietary, advertising",
-      "and/or third party content."
-    ]
-  },
-  "31169145": {
-    "code": 31169145,
-    "name": "Semiconductor Equipment & Materials",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31169,
-    "industry": 31169145,
-    "type": "Industry",
-    "description": [
-      "Companies that design, develop, manufacture and market",
-      "equipment, spare parts, tools, cleaning devices and related",
-      "materials for the semiconductor industry."
-    ]
-  },
-  "31169146": {
-    "code": 31169146,
-    "name": "Semiconductor Memory",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31169,
-    "industry": 31169146,
-    "type": "Industry",
-    "description": [
-      "Companies that design, develop, manufacture and market",
-      "high performance memory and memory intensive products",
-      "that retain information without power, including non-",
-      "volatile (NVM) circuits, FLASH chips, NVRAMs, static",
-      "memory chips (SRAM), DRAMs, FRAMs and",
-      "ERAMs."
-    ]
-  },
-  "31169147": {
-    "code": 31169147,
-    "name": "Semiconductors",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31169,
-    "industry": 31169147,
-    "type": "Industry",
-    "description": [
-      "Semiconductor companies engaged in diversiﬁed",
-      "manufacturing activities producing integrated circuits,",
-      "microprocessors, logic devices, chipsets, and memory chips",
-      "for a wide variety of users. Includes companies that design,",
-      "manufacture and market general application integrated",
-      "circuits, such as analog and digital ICs, microwave and",
-      "circuits, and silicon wafer chips, as well as",
-      "companies that produce highly specialized logic devices",
-      "and related equipment."
-    ]
-  },
-  "31169148": {
-    "code": 31169148,
-    "name": "Solar",
-    "superSector": 3,
-    "sector": 311,
-    "industryGroup": 31169,
-    "industry": 31169148,
-    "type": "Industry",
-    "description": [
-      "Companies engaged in the design, manufacturing,",
-      "marketing, or installation of solar power systems and",
-      "components."
-    ]
-  }
+    "1": {
+        "name": "Cyclical",
+        "code": 1,
+        "type": "Super Sector"
+    },
+    "2": {
+        "name": "Defensive",
+        "code": 2,
+        "type": "Super Sector"
+    },
+    "3": {
+        "name": "Sensitive",
+        "code": 3,
+        "type": "Super Sector"
+    },
+    "101": {
+        "code": 101,
+        "name": "Basic Materials",
+        "superSector": 1,
+        "sector": 101,
+        "type": "Sector"
+    },
+    "102": {
+        "code": 102,
+        "name": "Consumer Cyclical",
+        "superSector": 1,
+        "sector": 102,
+        "type": "Sector"
+    },
+    "103": {
+        "code": 103,
+        "name": "Financial Services",
+        "superSector": 1,
+        "sector": 103,
+        "type": "Sector"
+    },
+    "104": {
+        "code": 104,
+        "name": "Real Estate",
+        "superSector": 1,
+        "sector": 104,
+        "type": "Sector"
+    },
+    "205": {
+        "code": 205,
+        "name": "Consumer Defensive",
+        "superSector": 2,
+        "sector": 205,
+        "type": "Sector"
+    },
+    "206": {
+        "code": 206,
+        "name": "Healthcare",
+        "superSector": 2,
+        "sector": 206,
+        "type": "Sector"
+    },
+    "207": {
+        "code": 207,
+        "name": "Utilities",
+        "superSector": 2,
+        "sector": 207,
+        "type": "Sector"
+    },
+    "308": {
+        "code": 308,
+        "name": "Communication Services",
+        "superSector": 3,
+        "sector": 308,
+        "type": "Sector"
+    },
+    "309": {
+        "code": 309,
+        "name": "Energy",
+        "superSector": 3,
+        "sector": 309,
+        "type": "Sector"
+    },
+    "310": {
+        "code": 310,
+        "name": "Industrials",
+        "superSector": 3,
+        "sector": 310,
+        "type": "Sector"
+    },
+    "311": {
+        "code": 311,
+        "name": "Technology",
+        "superSector": 3,
+        "sector": 311,
+        "type": "Sector"
+    },
+    "10101": {
+        "code": 10101,
+        "name": "Agriculture",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10101,
+        "type": "Industry Group"
+    },
+    "10102": {
+        "code": 10102,
+        "name": "Building Materials",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10102,
+        "type": "Industry Group"
+    },
+    "10103": {
+        "code": 10103,
+        "name": "Chemicals",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10103,
+        "type": "Industry Group"
+    },
+    "10104": {
+        "code": 10104,
+        "name": "Coal",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10104,
+        "type": "Industry Group"
+    },
+    "10105": {
+        "code": 10105,
+        "name": "Forest Products",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10105,
+        "type": "Industry Group"
+    },
+    "10106": {
+        "code": 10106,
+        "name": "Metals & Mining",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10106,
+        "type": "Industry Group"
+    },
+    "10107": {
+        "code": 10107,
+        "name": "Steel",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10107,
+        "type": "Industry Group"
+    },
+    "10208": {
+        "code": 10208,
+        "name": "Advertising & Marketing Services",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10208,
+        "type": "Industry Group"
+    },
+    "10209": {
+        "code": 10209,
+        "name": "Autos",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10209,
+        "type": "Industry Group"
+    },
+    "10210": {
+        "code": 10210,
+        "name": "Entertainment",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10210,
+        "type": "Industry Group"
+    },
+    "10211": {
+        "code": 10211,
+        "name": "Homebuilding & Construction",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10211,
+        "type": "Industry Group"
+    },
+    "10212": {
+        "code": 10212,
+        "name": "Manufacturing-Apparel & Furniture",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10212,
+        "type": "Industry Group"
+    },
+    "10213": {
+        "code": 10213,
+        "name": "Packaging & Containers",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10213,
+        "type": "Industry Group"
+    },
+    "10214": {
+        "code": 10214,
+        "name": "Personal Services",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10214,
+        "type": "Industry Group"
+    },
+    "10215": {
+        "code": 10215,
+        "name": "Publishing",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10215,
+        "type": "Industry Group"
+    },
+    "10216": {
+        "code": 10216,
+        "name": "Restaurants",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10216,
+        "type": "Industry Group"
+    },
+    "10217": {
+        "code": 10217,
+        "name": "Retail–Apparel & Specialty",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10217,
+        "type": "Industry Group"
+    },
+    "10218": {
+        "code": 10218,
+        "name": "Travel & Leisure",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10218,
+        "type": "Industry Group"
+    },
+    "10319": {
+        "code": 10319,
+        "name": "Asset Management",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10319,
+        "type": "Industry Group"
+    },
+    "10320": {
+        "code": 10320,
+        "name": "Banks",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10320,
+        "type": "Industry Group"
+    },
+    "10321": {
+        "code": 10321,
+        "name": "Brokers & Exchanges",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10321,
+        "type": "Industry Group"
+    },
+    "10322": {
+        "code": 10322,
+        "name": "Credit Services",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10322,
+        "type": "Industry Group"
+    },
+    "10323": {
+        "code": 10323,
+        "name": "Insurance",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10323,
+        "type": "Industry Group"
+    },
+    "10324": {
+        "code": 10324,
+        "name": "Insurance–Life",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10324,
+        "type": "Industry Group"
+    },
+    "10325": {
+        "code": 10325,
+        "name": "Insurance–Property & Casualty",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10325,
+        "type": "Industry Group"
+    },
+    "10326": {
+        "code": 10326,
+        "name": "Insurance-Specialty",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10326,
+        "type": "Industry Group"
+    },
+    "10427": {
+        "code": 10427,
+        "name": "Real Estate",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10427,
+        "type": "Industry Group"
+    },
+    "10428": {
+        "code": 10428,
+        "name": "REITs",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "type": "Industry Group"
+    },
+    "20529": {
+        "code": 20529,
+        "name": "Beverages-Alcoholic",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20529,
+        "type": "Industry Group"
+    },
+    "20530": {
+        "code": 20530,
+        "name": "Beverages-Non-Alcoholic",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20530,
+        "type": "Industry Group"
+    },
+    "20531": {
+        "code": 20531,
+        "name": "Consumer Packaged Goods",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20531,
+        "type": "Industry Group"
+    },
+    "20532": {
+        "code": 20532,
+        "name": "Education",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20532,
+        "type": "Industry Group"
+    },
+    "20533": {
+        "code": 20533,
+        "name": "Retail–Defensive",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20533,
+        "type": "Industry Group"
+    },
+    "20534": {
+        "code": 20534,
+        "name": "Tobacco Products",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20534,
+        "type": "Industry Group"
+    },
+    "20635": {
+        "code": 20635,
+        "name": "Biotechnology",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20635,
+        "type": "Industry Group"
+    },
+    "20636": {
+        "code": 20636,
+        "name": "Drug Manufacturers",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20636,
+        "type": "Industry Group"
+    },
+    "20637": {
+        "code": 20637,
+        "name": "Healthcare Plans",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20637,
+        "type": "Industry Group"
+    },
+    "20638": {
+        "code": 20638,
+        "name": "Healthcare Providers",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20638,
+        "type": "Industry Group"
+    },
+    "20639": {
+        "code": 20639,
+        "name": "Medical Devices",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20639,
+        "type": "Industry Group"
+    },
+    "20640": {
+        "code": 20640,
+        "name": "Medical Diagnostics & Research",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20640,
+        "type": "Industry Group"
+    },
+    "20641": {
+        "code": 20641,
+        "name": "Medical Distribution",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20641,
+        "type": "Industry Group"
+    },
+    "20642": {
+        "code": 20642,
+        "name": "Medical Instruments & Equipment",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20642,
+        "type": "Industry Group"
+    },
+    "20743": {
+        "code": 20743,
+        "name": "Utilities-Independent Power Producers",
+        "superSector": 2,
+        "sector": 207,
+        "industryGroup": 20743,
+        "type": "Industry Group"
+    },
+    "20744": {
+        "code": 20744,
+        "name": "Utilities-Regulated",
+        "superSector": 2,
+        "sector": 207,
+        "industryGroup": 20744,
+        "type": "Industry Group"
+    },
+    "30845": {
+        "code": 30845,
+        "name": "Communication Services",
+        "superSector": 3,
+        "sector": 308,
+        "industryGroup": 30845,
+        "type": "Industry Group"
+    },
+    "30946": {
+        "code": 30946,
+        "name": "Oil & Gas–Drilling",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30946,
+        "type": "Industry Group"
+    },
+    "30947": {
+        "code": 30947,
+        "name": "Oil & Gas–E&P",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30947,
+        "type": "Industry Group"
+    },
+    "30948": {
+        "code": 30948,
+        "name": "Oil & Gas-Integrated",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30948,
+        "type": "Industry Group"
+    },
+    "30949": {
+        "code": 30949,
+        "name": "Oil & Gas-Midstream",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30949,
+        "type": "Industry Group"
+    },
+    "30950": {
+        "code": 30950,
+        "name": "Oil & Gas–Reﬁning & Marketing",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30950,
+        "type": "Industry Group"
+    },
+    "30951": {
+        "code": 30951,
+        "name": "Oil & Gas–Services",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30951,
+        "type": "Industry Group"
+    },
+    "31052": {
+        "code": 31052,
+        "name": "Aerospace & Defense",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31052,
+        "type": "Industry Group"
+    },
+    "31053": {
+        "code": 31053,
+        "name": "Airlines",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31053,
+        "type": "Industry Group"
+    },
+    "31054": {
+        "code": 31054,
+        "name": "Business Services",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31054,
+        "type": "Industry Group"
+    },
+    "31055": {
+        "code": 31055,
+        "name": "Conglomerates",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31055,
+        "type": "Industry Group"
+    },
+    "31056": {
+        "code": 31056,
+        "name": "Consulting & Outsourcing",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31056,
+        "type": "Industry Group"
+    },
+    "31057": {
+        "code": 31057,
+        "name": "Employment Services",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31057,
+        "type": "Industry Group"
+    },
+    "31058": {
+        "code": 31058,
+        "name": "Engineering & Construction",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31058,
+        "type": "Industry Group"
+    },
+    "31059": {
+        "code": 31059,
+        "name": "Farm & Construction Machinery",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31059,
+        "type": "Industry Group"
+    },
+    "31060": {
+        "code": 31060,
+        "name": "Industrial Distribution",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31060,
+        "type": "Industry Group"
+    },
+    "31061": {
+        "code": 31061,
+        "name": "Industrial Products",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31061,
+        "type": "Industry Group"
+    },
+    "31062": {
+        "code": 31062,
+        "name": "Transportation & Logistics",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31062,
+        "type": "Industry Group"
+    },
+    "31063": {
+        "code": 31063,
+        "name": "Truck Manufacturing",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31063,
+        "type": "Industry Group"
+    },
+    "31064": {
+        "code": 31064,
+        "name": "Waste Management",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31064,
+        "type": "Industry Group"
+    },
+    "31165": {
+        "code": 31165,
+        "name": "Application Software",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31165,
+        "type": "Industry Group"
+    },
+    "31166": {
+        "code": 31166,
+        "name": "Communication Equipment",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31166,
+        "type": "Industry Group"
+    },
+    "31167": {
+        "code": 31167,
+        "name": "Computer Hardware",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "type": "Industry Group"
+    },
+    "31168": {
+        "code": 31168,
+        "name": "Online Media",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31168,
+        "type": "Industry Group"
+    },
+    "31169": {
+        "code": 31169,
+        "name": "Semiconductors",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31169,
+        "type": "Industry Group"
+    },
+    "10101001": {
+        "code": 10101001,
+        "name": "Agricultural Inputs",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10101,
+        "industry": 10101001,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture nitrogenous and phosphatic",
+            "fertilizers, pesticides, seed and other agricultural chemical",
+            "products."
+        ]
+    },
+    "10102002": {
+        "code": 10102002,
+        "name": "Building Materials",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10102,
+        "industry": 10102002,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture a wide variety of building and",
+            "construction products and materials including stone, clay",
+            "and brick products, ceramic ﬂoor and wall title, plumbing,",
+            "heating and A/C equipment, framing structures and doors,",
+            "paint and other construction ﬁnishing products."
+        ]
+    },
+    "10103003": {
+        "code": 10103003,
+        "name": "Chemicals",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10103,
+        "industry": 10103003,
+        "type": "Industry",
+        "description": [
+            "Major international chemical manufacturing companies",
+            "engaged in diverse chemical and chemical-related",
+            "operations."
+        ]
+    },
+    "10103004": {
+        "code": 10103004,
+        "name": "Specialty Chemicals",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10103,
+        "industry": 10103004,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture specialty chemical products",
+            "such as polishes, adhesives and sealants, explosives,",
+            "printing ink, carbon black, acids, repellants and cleaning",
+            "solutions."
+        ]
+    },
+    "10104005": {
+        "code": 10104005,
+        "name": "Coal",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10104,
+        "industry": 10104005,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in mining coal."
+        ]
+    },
+    "10105006": {
+        "code": 10105006,
+        "name": "Lumber & Wood Production",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10105,
+        "industry": 10105006,
+        "type": "Industry",
+        "description": [
+            "Companies that grow timber, mill lumber and manufacture",
+            "wood and wood products for construction."
+        ]
+    },
+    "10105007": {
+        "code": 10105007,
+        "name": "Paper & Paper Products",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10105,
+        "industry": 10105007,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and market paper and paper",
+            "related products from wood pulp and other ﬁbers."
+        ]
+    },
+    "10106008": {
+        "code": 10106008,
+        "name": "Aluminum",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10106,
+        "industry": 10106008,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the production, reﬁning, marketing,",
+            "and distribution of aluminum and related aluminum based",
+            "products."
+        ]
+    },
+    "10106009": {
+        "code": 10106009,
+        "name": "Copper",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10106,
+        "industry": 10106009,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the exploration, mining, smelting",
+            "and reﬁning of copper ores and related copper products."
+        ]
+    },
+    "10106010": {
+        "code": 10106010,
+        "name": "Gold",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10106,
+        "industry": 10106010,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in Gold ore related activities including",
+            "exploration, mining, processing, extraction and smelting."
+        ]
+    },
+    "10106011": {
+        "code": 10106011,
+        "name": "Industrial Metals & Minerals",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10106,
+        "industry": 10106011,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the mining, reﬁning, producing,",
+            "smelting and milling of miscellaneous ores including Lead,",
+            "Zinc, Uranium, Radium, Vanadium, Nickel, Tin, Coal,",
+            "Titanium, Platinum and other related materials."
+        ]
+    },
+    "10106012": {
+        "code": 10106012,
+        "name": "Silver",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10106,
+        "industry": 10106012,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in Silver ore related activities",
+            "including exploration, mining, and extraction."
+        ]
+    },
+    "10107013": {
+        "code": 10107013,
+        "name": "Steel",
+        "superSector": 1,
+        "sector": 101,
+        "industryGroup": 10107,
+        "industry": 10107013,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the production and processing of",
+            "steel and steel- and iron- based products."
+        ]
+    },
+    "10208014": {
+        "code": 10208014,
+        "name": "Advertising Agencies",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10208,
+        "industry": 10208014,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in full-service advertising operations",
+            "including the planning, creating, producing and placing of",
+            "advertising in various media such as TV, radio or print."
+        ]
+    },
+    "10208015": {
+        "code": 10208015,
+        "name": "Marketing Services",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10208,
+        "industry": 10208015,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in marketing related activities",
+            "including production of outdoor advertising, promotional",
+            "materials, direct-mail services and products and marketing",
+            "research services."
+        ]
+    },
+    "10209016": {
+        "code": 10209016,
+        "name": "Auto & Truck Dealerships",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10209,
+        "industry": 10209016,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the specialty retail of new and used",
+            "automobiles, trucks and other vehicles through the",
+            "operation and/or franchising of dealerships."
+        ]
+    },
+    "10209017": {
+        "code": 10209017,
+        "name": "Auto Manufacturers",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10209,
+        "industry": 10209017,
+        "type": "Industry",
+        "description": [
+            "Leading worldwide designers and manufacturers of",
+            "passenger cars and trucks."
+        ]
+    },
+    "10209018": {
+        "code": 10209018,
+        "name": "Auto Parts",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10209,
+        "industry": 10209018,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture motor vehicle parts and",
+            "accessories, but do not engage in manufacturing of",
+            "complete car bodies."
+        ]
+    },
+    "10209019": {
+        "code": 10209019,
+        "name": "Recreational Vehicles",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10209,
+        "industry": 10209019,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture a broad line of recreational",
+            "vehicles including self-contained motor homes, campers, all",
+            "terrain vehicles, travel/camper trailers, snowmobiles and",
+            "motorcycles."
+        ]
+    },
+    "10209020": {
+        "code": 10209020,
+        "name": "Rubber & Plastics",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10209,
+        "industry": 10209020,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture rubber and plastic based",
+            "products including tires and inner tubes, hose and belting,",
+            "plastic plate, pipe and ﬁlm and other fabricated plastic and",
+            "rubber products."
+        ]
+    },
+    "10210021": {
+        "code": 10210021,
+        "name": "Broadcasting–Radio",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10210,
+        "industry": 10210021,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in owning and operating",
+            "radio broadcast stations and providing and producing radio",
+            "programming services."
+        ]
+    },
+    "10210022": {
+        "code": 10210022,
+        "name": "Broadcasting–TV",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10210,
+        "industry": 10210022,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in owning and operating",
+            "television broadcast stations and providing and producing",
+            "television programming services."
+        ]
+    },
+    "10210023": {
+        "code": 10210023,
+        "name": "Media–Diversiﬁed",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10210,
+        "industry": 10210023,
+        "type": "Industry",
+        "description": [
+            "Large, major, entertainment operatives with diversiﬁed",
+            "holdings in movies, television, theme parks and other",
+            "media-based entertainment. Includes companies primarily",
+            "engaged in the production and distribution of motion",
+            "pictures and video and the operation of movie theaters."
+        ]
+    },
+    "10211024": {
+        "code": 10211024,
+        "name": "Residential Construction",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10211,
+        "industry": 10211024,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the construction and renovation of",
+            "residential buildings such as single-family houses,",
+            "apartments and hotels."
+        ]
+    },
+    "10211025": {
+        "code": 10211025,
+        "name": "Textile Manufacturing",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10211,
+        "industry": 10211025,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and mill various textile",
+            "products including apparel fabrics, bedding and",
+            "accessories, home furnishing fabrics, carpets and rugs,",
+            "curtains and drapes and other milled textile products."
+        ]
+    },
+    "10212026": {
+        "code": 10212026,
+        "name": "Apparel Manufacturing",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10212,
+        "industry": 10212026,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture, design, market, source and",
+            "sell all lines of clothing for men, women and children."
+        ]
+    },
+    "10212027": {
+        "code": 10212027,
+        "name": "Footwear & Accessories",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10212,
+        "industry": 10212027,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture, design, market and sell all",
+            "lines of footwear and apparel accessories including",
+            "luggage, handbags and purses, belts and other leather",
+            "goods."
+        ]
+    },
+    "10212028": {
+        "code": 10212028,
+        "name": "Home Furnishings & Fixtures",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10212,
+        "industry": 10212028,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and market household",
+            "products such as wooden, metal and upholstered furniture,",
+            "mattresses and bedsprings and lighting ﬁxtures."
+        ]
+    },
+    "10213029": {
+        "code": 10213029,
+        "name": "Packaging & Containers",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10213,
+        "industry": 10213029,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and market a broad line of",
+            "paper, plastic, metal and glass packaging products",
+            "including corrugated boxes, cardboard containers, bottles,",
+            "cans and plastic foam and food containers."
+        ]
+    },
+    "10214030": {
+        "code": 10214030,
+        "name": "Personal Services",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10214,
+        "industry": 10214030,
+        "type": "Industry",
+        "description": [
+            "Companies that provide services of a personal nature or",
+            "that are particularly structured for the individual or group",
+            "being served including veterinary services, funeral and",
+            "cemetery services, child care services, portrait and photo",
+            "services, tax preparation and legal services and other",
+            "miscellaneous personal services."
+        ]
+    },
+    "10215031": {
+        "code": 10215031,
+        "name": "Publishing",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10215,
+        "industry": 10215031,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the publishing of",
+            "periodicals such as magazines, comic books, trade journals,",
+            "books, pamphlets and newspapers."
+        ]
+    },
+    "10216032": {
+        "code": 10216032,
+        "name": "Restaurants",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10216,
+        "industry": 10216032,
+        "type": "Industry",
+        "description": [
+            "Companies that own, operate, and franchise full-service",
+            "restaurants that engage in the retail sale of a wide variety",
+            "of prepared food and drink."
+        ]
+    },
+    "10217033": {
+        "code": 10217033,
+        "name": "Apparel Stores",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10217,
+        "industry": 10217033,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the retail sale of men's, women's",
+            "and/or children's clothing, shoes and accessories."
+        ]
+    },
+    "10217034": {
+        "code": 10217034,
+        "name": "Department Stores",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10217,
+        "industry": 10217034,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the retail sale of a diverse mix of",
+            "merchandise emphasizing fashion apparel and accessories,",
+            "home furnishings, electronics and cosmetics."
+        ]
+    },
+    "10217035": {
+        "code": 10217035,
+        "name": "Home Improvement Stores",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10217,
+        "industry": 10217035,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the retail sale of home-improvement",
+            "items such as lumber, hardware and other building",
+            "materials, plants and other garden supplies and various",
+            "other items for the home."
+        ]
+    },
+    "10217036": {
+        "code": 10217036,
+        "name": "Luxury Goods",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10217,
+        "industry": 10217036,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the specialty retail of luxury items",
+            "including jewelry, watches, crystal, clothing, handbags, and",
+            "accessories."
+        ]
+    },
+    "10217037": {
+        "code": 10217037,
+        "name": "Specialty Retail",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10217,
+        "industry": 10217037,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the specialty retail of various goods",
+            "and products not covered in a speciﬁc industry group. This",
+            "group includes retailers such as bookstores, ofﬁce-supply",
+            "stores, gas stations, pawn shops, novelty shops, auto part",
+            "stores, electronic stocks, home furnishing stores, sporting",
+            "good stores, toy and hobby stores, music and video stores,",
+            "and many other miscellaneous retailers."
+        ]
+    },
+    "10218038": {
+        "code": 10218038,
+        "name": "Gambling",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10218,
+        "industry": 10218038,
+        "type": "Industry",
+        "description": [
+            "Companies that own, operate, or manage lawful gaming",
+            "activities and events such as horse and dog racing, online",
+            "gaming, bingo, and video lottery, as well as companies that",
+            "supply products or services to gaming operators."
+        ]
+    },
+    "10218039": {
+        "code": 10218039,
+        "name": "Leisure",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10218,
+        "industry": 10218039,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture, design, market and sell",
+            "bicycles, sporting goods, recreational equipment, toys and",
+            "other leisure- or travel-related products or services."
+        ]
+    },
+    "10218040": {
+        "code": 10218040,
+        "name": "Lodging",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10218,
+        "industry": 10218040,
+        "type": "Industry",
+        "description": [
+            "Companies that develop, manage, own and operate lodging",
+            "facilities including motels, extended-stay and full-service",
+            "hotels and economy hotels and inns."
+        ]
+    },
+    "10218041": {
+        "code": 10218041,
+        "name": "Resorts & Casinos",
+        "superSector": 1,
+        "sector": 102,
+        "industryGroup": 10218,
+        "industry": 10218041,
+        "type": "Industry",
+        "description": [
+            "Companies that own, operate, and manage resort",
+            "properties including beach clubs, time-share properties and",
+            "luxury resort hotels and that conduct casino gaming",
+            "operations."
+        ]
+    },
+    "10319042": {
+        "code": 10319042,
+        "name": "Asset Management",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10319,
+        "industry": 10319042,
+        "type": "Industry",
+        "description": [
+            "Investment management ﬁrms offering diversiﬁed services",
+            "such as asset administration, investment advice, portfolio",
+            "or mutual fund management, money management, venture",
+            "capital and investment research."
+        ]
+    },
+    "10320043": {
+        "code": 10320043,
+        "name": "Banks–Global",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10320,
+        "industry": 10320043,
+        "type": "Industry",
+        "description": [
+            "Large, global, diverse ﬁnancial institutions serving the",
+            "corporate, consumer needs of retail banking, investment"
+        ]
+    },
+    "10320049": {
+        "code": 10320049,
+        "name": "Banks–Regional–Latin America",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10320,
+        "industry": 10320049,
+        "type": "Industry",
+        "description": [
+            "Large, regional, diverse ﬁnancial institutions serving the",
+            "corporate, government and consumer needs of retail",
+            "banking, investment banking, trust management, credit",
+            "cards and mortgage banking in Latin America."
+        ]
+    },
+    "10320050": {
+        "code": 10320050,
+        "name": "Banks–Regional–US",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10320,
+        "industry": 10320050,
+        "type": "Industry",
+        "description": [
+            "Large, regional, diverse ﬁnancial institutions serving the",
+            "corporate, government and consumer needs of retail",
+            "banking, investment banking, trust management, credit",
+            "cards and mortgage banking in the United States."
+        ]
+    },
+    "10320051": {
+        "code": 10320051,
+        "name": "Savings & Cooperative Banks",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10320,
+        "industry": 10320051,
+        "type": "Industry",
+        "description": [
+            "Savings and loan associations, building societies,",
+            "cooperative banks, homestead associations, home",
+            "ﬁnancing, and thrift institutions."
+        ]
+    },
+    "10320052": {
+        "code": 10320052,
+        "name": "Specialty Finance",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10320,
+        "industry": 10320052,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in originating, purchasing, selling and",
+            "servicing home mortgage and equity loans."
+        ]
+    },
+    "10321053": {
+        "code": 10321053,
+        "name": "Capital Markets",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10321,
+        "industry": 10321053,
+        "type": "Industry",
+        "description": [
+            "Large, major investment houses offering wide variety of",
+            "investment banking, underwriting, brokerage, research and",
+            "advisory services to broad based national and international",
+            "market."
+        ]
+    },
+    "10321054": {
+        "code": 10321054,
+        "name": "Financial Exchanges",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10321,
+        "industry": 10321054,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the operation of security",
+            "exchanges."
+        ]
+    },
+    "10321055": {
+        "code": 10321055,
+        "name": "Insurance Brokers",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10321,
+        "industry": 10321055,
+        "type": "Industry",
+        "description": [
+            "Companies acting primarily as agents or intermediaries in",
+            "creating insurance contracts between clients and insurance",
+            "companies."
+        ]
+    },
+    "10322056": {
+        "code": 10322056,
+        "name": "Credit Services",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10322,
+        "industry": 10322056,
+        "type": "Industry",
+        "description": [
+            "Companies that extend credit and make loans to individuals",
+            "and business enterprises through credit cards, installment"
+        ]
+    },
+    "10323057": {
+        "code": 10323057,
+        "name": "Insurance–Diversiﬁed",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10323,
+        "industry": 10323057,
+        "type": "Industry",
+        "description": [
+            "Insurance companies with diversiﬁed interests in life,",
+            "health, and property and casualty insurance."
+        ]
+    },
+    "10324058": {
+        "code": 10324058,
+        "name": "Insurance–Life",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10324,
+        "industry": 10324058,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the underwriting,",
+            "marketing and distribution of life insurance and related",
+            "products to individuals and families."
+        ]
+    },
+    "10325059": {
+        "code": 10325059,
+        "name": "Insurance–Property & Casualty",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10325,
+        "industry": 10325059,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the underwriting,",
+            "marketing and distribution of ﬁre, marine and casualty",
+            "insurance for property and other tangible assets."
+        ]
+    },
+    "10326060": {
+        "code": 10326060,
+        "name": "Insurance–Reinsurance",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10326,
+        "industry": 10326060,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the underwriting and sale",
+            "of reinsurance."
+        ]
+    },
+    "10326061": {
+        "code": 10326061,
+        "name": "Insurance–Specialty",
+        "superSector": 1,
+        "sector": 103,
+        "industryGroup": 10326,
+        "industry": 10326061,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the underwriting,",
+            "marketing and distribution of accident and health, sickness",
+            "and other specialty or supplemental insurance to",
+            "individuals and families."
+        ]
+    },
+    "10427062": {
+        "code": 10427062,
+        "name": "Real Estate–General",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10427,
+        "industry": 10427062,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in subdividing and developing real",
+            "estate to be held in inventory or to be sold to others."
+        ]
+    },
+    "10427063": {
+        "code": 10427063,
+        "name": "Real Estate Services",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10427,
+        "industry": 10427063,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in acquiring, selling, developing,",
+            "operating, managing and leasing real property including",
+            "commercial and industrial properties, apartments and retail",
+            "sites."
+        ]
+    },
+    "10428064": {
+        "code": 10428064,
+        "name": "REIT–Diversiﬁed",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "industry": 10428064,
+        "type": "Industry",
+        "description": [
+            "Self-Administered Real Estate Investment Trusts engaged",
+            "in the acquisition, management and disposition of",
+            "diversiﬁed property holdings, with no speciﬁc portfolio",
+            "composition."
+        ]
+    },
+    "10428065": {
+        "code": 10428065,
+        "name": "REIT–Healthcare Facilities",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "industry": 10428065,
+        "type": "Industry",
+        "description": [
+            "Self-Administered Real Estate Investment Trusts engaged",
+            "in the acquisition, management and disposition of",
+            "health-care properties including long-term care facilities,",
+            "acute care and rehab hospitals, psychiatric facilities and",
+            "substance-abuse centers."
+        ]
+    },
+    "10428066": {
+        "code": 10428066,
+        "name": "REIT–Hotel & Motel",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "industry": 10428066,
+        "type": "Industry",
+        "description": [
+            "Self-Administered Real Estate Investment Trusts engaged",
+            "in the acquisition, management and disposition of lodging",
+            "properties including full and limited service hotels and",
+            "motels."
+        ]
+    },
+    "10428067": {
+        "code": 10428067,
+        "name": "REIT–Industrial",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "industry": 10428067,
+        "type": "Industry",
+        "description": [
+            "Self-Administered Real Estate Investment Trusts engaged",
+            "in the acquisition, management and disposition of",
+            "industrial purpose properties including bulk warehouses,",
+            "self-storage facilities, distribution facilities and other light",
+            "industrial facilities."
+        ]
+    },
+    "10428068": {
+        "code": 10428068,
+        "name": "REIT–Ofﬁce",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "industry": 10428068,
+        "type": "Industry",
+        "description": [
+            "Self-Administered Real Estate Investment Trusts engaged",
+            "in the acquisition, management and disposition of ofﬁce",
+            "properties including ofﬁce buildings, complexes and",
+            "centers."
+        ]
+    },
+    "10428069": {
+        "code": 10428069,
+        "name": "REIT–Residential",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "industry": 10428069,
+        "type": "Industry",
+        "description": [
+            "Self-Administered Real Estate Investment Trusts engaged",
+            "in the acquisition, management and disposition of",
+            "residential properties including apartments, multi-family",
+            "and single-family mortgage loans, manufactured housing,",
+            "mobile-home parks and other residential properties."
+        ]
+    },
+    "10428070": {
+        "code": 10428070,
+        "name": "REIT–Retail",
+        "superSector": 1,
+        "sector": 104,
+        "industryGroup": 10428,
+        "industry": 10428070,
+        "type": "Industry",
+        "description": [
+            "Self-Administered Real Estate Investment Trusts engaged",
+            "in the acquisition, management and disposition of retail",
+            "properties including community shopping centers, factory",
+            "outlet shopping centers, enclosed shopping mall centers,",
+            "strip centers, restaurant and other retail properties."
+        ]
+    },
+    "20529071": {
+        "code": 20529071,
+        "name": "Beverages–Brewers",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20529,
+        "industry": 20529071,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture malt based beverages, beers",
+            "and ales."
+        ]
+    },
+    "20529072": {
+        "code": 20529072,
+        "name": "Beverages–Wineries & Distilleries",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20529,
+        "industry": 20529072,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture distilled liquors and wine."
+        ]
+    },
+    "20530073": {
+        "code": 20530073,
+        "name": "Beverages–Soft Drinks",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20530,
+        "industry": 20530073,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and bottle soft drinks,",
+            "carbonated and spring water, fruit juices and other",
+            "non-alcoholic beverages."
+        ]
+    },
+    "20531074": {
+        "code": 20531074,
+        "name": "Confectioners",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20531,
+        "industry": 20531074,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and reﬁne raw sugar, syrup or",
+            "ﬁnished cane and beet sugar, candy and chewing gum,",
+            "chocolate and cocoa products."
+        ]
+    },
+    "20531075": {
+        "code": 20531075,
+        "name": "Farm Products",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20531,
+        "industry": 20531075,
+        "type": "Industry",
+        "description": [
+            "Companies that produce, raise and grow agricultural and",
+            "farm-based food products including fruits, vegetables, other",
+            "crop products, cattle and eggs. Also includes seafood",
+            "products."
+        ]
+    },
+    "20531076": {
+        "code": 20531076,
+        "name": "Household & Personal Products",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20531,
+        "industry": 20531076,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and market soaps and other",
+            "detergents, polishing and sanitation goods and produce",
+            "glycerin from vegetable and animal fats and oils. Also",
+            "includes companies that manufacture and market personal",
+            "care products including perfume, cosmetics and other toilet",
+            "preparations, infant and adult sanitary paper products,",
+            "shaving razors and blades."
+        ]
+    },
+    "20531077": {
+        "code": 20531077,
+        "name": "Packaged Foods",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20531,
+        "industry": 20531077,
+        "type": "Industry",
+        "description": [
+            "Companies that process and package food products",
+            "including frozen foods, grain products, canned foods, snack",
+            "foods and pet products."
+        ]
+    },
+    "20532078": {
+        "code": 20532078,
+        "name": "Education & Training Services",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20532,
+        "industry": 20532078,
+        "type": "Industry",
+        "description": [
+            "Companies that provide educational and training services",
+            "including college and junior-college courses, higher-",
+            "education programs, technical and vocational training and",
+            "other education-based services."
+        ]
+    },
+    "20533079": {
+        "code": 20533079,
+        "name": "Discount Stores",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20533,
+        "industry": 20533079,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the retail sale of a variety of",
+            "merchandise in low and discounted price ranges."
+        ]
+    },
+    "20533080": {
+        "code": 20533080,
+        "name": "Pharmaceutical Retailers",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20533,
+        "industry": 20533080,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the retail sale of prescription drugs",
+            "and patent medicines as well as a number of related lines",
+            "such as cosmetics, toiletries and novelty merchandise."
+        ]
+    },
+    "20533081": {
+        "code": 20533081,
+        "name": "Food Distribution",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20533,
+        "industry": 20533081,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the distribution and supply",
+            "of food products including packaged goods, meat, dairy",
+            "products, frozen foods and related groceries to grocery",
+            "stores, restaurants and other food-service centers."
+        ]
+    },
+    "20533082": {
+        "code": 20533082,
+        "name": "Grocery Stores",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20533,
+        "industry": 20533082,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the retail sale of groceries including",
+            "dry goods, meat, produce, frozen foods, diary products,",
+            "seafood, deli/bakery and nonfood items."
+        ]
+    },
+    "20534083": {
+        "code": 20534083,
+        "name": "Tobacco",
+        "superSector": 2,
+        "sector": 205,
+        "industryGroup": 20534,
+        "industry": 20534083,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and market cigarettes, snuff,",
+            "cigars, chewing tobacco and all other tobacco products."
+        ]
+    },
+    "20635084": {
+        "code": 20635084,
+        "name": "Biotechnology",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20635,
+        "industry": 20635084,
+        "type": "Industry",
+        "description": [
+            "Biotech and biopharmaceutical companies engaged in",
+            "research, discovery, development and production of",
+            "innovative drug and drug-related technologies."
+        ]
+    },
+    "20636085": {
+        "code": 20636085,
+        "name": "Drug Manufacturers–Major",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20636,
+        "industry": 20636085,
+        "type": "Industry",
+        "description": [
+            "Major, global pharmaceutical manufacturers offering a",
+            "broad and diverse line of drug and healthcare products;",
+            "industry leaders that have made a signiﬁcant commitment",
+            "to the research and development of a long pipeline of",
+            "drugs."
+        ]
+    },
+    "20636086": {
+        "code": 20636086,
+        "name": "Drug Manufacturers–Specialty & Generic",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20636,
+        "industry": 20636086,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in development and discovery of",
+            "branded forms of drug, drug-related products and generic",
+            "drug products."
+        ]
+    },
+    "20637087": {
+        "code": 20637087,
+        "name": "Healthcare Plans",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20637,
+        "industry": 20637087,
+        "type": "Industry",
+        "description": [
+            "Companies that offer and provide a wide variety of",
+            "managed health and dental care products and services",
+            "including HMO’s, PPO’s and other health insurance plans."
+        ]
+    },
+    "20638088": {
+        "code": 20638088,
+        "name": "Long-Term Care Facilities",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20638,
+        "industry": 20638088,
+        "type": "Industry",
+        "description": [
+            "Companies that operate long-term care facilities such as",
+            "assisted-living centers and nursing and retirement homes",
+            "while providing wide range of health-care services."
+        ]
+    },
+    "20638089": {
+        "code": 20638089,
+        "name": "Medical Care",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20638,
+        "industry": 20638089,
+        "type": "Industry",
+        "description": [
+            "Companies that provide medical services through the",
+            "ownership and operation of general medical hospitals,",
+            "psychiatric hospitals and other specialty-care hospitals",
+            "such as substance-abuse centers."
+        ]
+    },
+    "20639090": {
+        "code": 20639090,
+        "name": "Medical Devices",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20639,
+        "industry": 20639090,
+        "type": "Industry",
+        "description": [
+            "Companies that develop, manufacture, and market medical",
+            "and surgical equipment and machinery including orthopedic",
+            "products, respiratory care equipment, wheelchairs, x-ray",
+            "equipment, laser systems and other major medical",
+            "machines and apparatus."
+        ]
+    },
+    "20640091": {
+        "code": 20640091,
+        "name": "Diagnostics & Research",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20640,
+        "industry": 20640091,
+        "type": "Industry",
+        "description": [
+            "Companies that provide laboratory testing services through",
+            "imaging and other diagnostic services to the medical and",
+            "dental market. Includes companies that develop,",
+            "manufacture and market products for detection, prevention",
+            "and treatment of human health problems including",
+            "diagnostic screening products and testing kits, blood",
+            "analysis systems, gene therapy and detection systems."
+        ]
+    },
+    "20641092": {
+        "code": 20641092,
+        "name": "Medical Distribution",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20641,
+        "industry": 20641092,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the distribution and supply",
+            "of medical instruments and supplies, ophthalmic goods and",
+            "other heath-related items to the medical and health-care",
+            "industry."
+        ]
+    },
+    "20642093": {
+        "code": 20642093,
+        "name": "Medical Instruments & Supplies",
+        "superSector": 2,
+        "sector": 206,
+        "industryGroup": 20642,
+        "industry": 20642093,
+        "type": "Industry",
+        "description": [
+            "Companies that develop, design, manufacture and market",
+            "medical and dental instruments and supplies including",
+            "catheters, needles, implants, syringes, values, eye wear,",
+            "and eye care products and other health related devices and",
+            "supplies."
+        ]
+    },
+    "20743094": {
+        "code": 20743094,
+        "name": "Utilities–Independent Power Producers",
+        "superSector": 2,
+        "sector": 207,
+        "industryGroup": 20743,
+        "industry": 20743094,
+        "type": "Industry",
+        "description": [
+            "Companies that own and operate merchant power",
+            "generation facilities and sell electricity into retail and",
+            "wholesale markets."
+        ]
+    },
+    "20744095": {
+        "code": 20744095,
+        "name": "Utilities–Diversiﬁed",
+        "superSector": 2,
+        "sector": 207,
+        "industryGroup": 20744,
+        "industry": 20744095,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the regulated generation,",
+            "transmission and/or distribution of electricity and natural",
+            "gas, and own and operate merchant power generation",
+            "facilities and energy marketing operations."
+        ]
+    },
+    "20744096": {
+        "code": 20744096,
+        "name": "Utilities–Regulated Electric",
+        "superSector": 2,
+        "sector": 207,
+        "industryGroup": 20744,
+        "industry": 20744096,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the generation, transmission and/or",
+            "distribution of electric energy for sale."
+        ]
+    },
+    "20744097": {
+        "code": 20744097,
+        "name": "Utilities–Regulated Gas",
+        "superSector": 2,
+        "sector": 207,
+        "industryGroup": 20744,
+        "industry": 20744097,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the transmission, storage and/or",
+            "distribution of natural gas."
+        ]
+    },
+    "20744098": {
+        "code": 20744098,
+        "name": "Utilities–Regulated Water",
+        "superSector": 2,
+        "sector": 207,
+        "industryGroup": 20744,
+        "industry": 20744098,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in distributing water for sale."
+        ]
+    },
+    "30845099": {
+        "code": 30845099,
+        "name": "Companies primarily engaged in cable television services",
+        "superSector": 3,
+        "sector": 308,
+        "industryGroup": 30845,
+        "industry": 30845099,
+        "type": "Industry",
+        "description": [
+            "and transmissions and other pay-per-view programming",
+            "and services."
+        ]
+    },
+    "30845100": {
+        "code": 30845100,
+        "name": "Telecom Services",
+        "superSector": 3,
+        "sector": 308,
+        "industryGroup": 30845,
+        "industry": 30845100,
+        "type": "Industry",
+        "description": [
+            "Companies that provide various local, national,",
+            "international and long-distance phone services, as well as",
+            "companies offering mobile communication products and",
+            "wireless services such as paging and messaging. Also",
+            "includes companies that provide services for faxing,",
+            "prepaid phone cards, pay phones, and directory assistance,",
+            "or that provide internet access services."
+        ]
+    },
+    "30946101": {
+        "code": 30946101,
+        "name": "Oil & Gas Drilling",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30946,
+        "industry": 30946101,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in contract drilling and",
+            "exploration for petroleum and natural gas, including",
+            "offshore and onshore drilling as well as related oil well and",
+            "contracting services."
+        ]
+    },
+    "30947102": {
+        "code": 30947102,
+        "name": "Oil & Gas E&P",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30947,
+        "industry": 30947102,
+        "type": "Industry",
+        "description": [
+            "Energy companies which are primarily engaged in gas",
+            "exploration and production."
+        ]
+    },
+    "30948103": {
+        "code": 30948103,
+        "name": "Oil & Gas Integrated",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30948,
+        "industry": 30948103,
+        "type": "Industry",
+        "description": [
+            "Major energy companies engaged in the diverse aspects of",
+            "oil and gas operations including crude oil & gas",
+            "exploration, production, manufacturing, reﬁning, marketing",
+            "and transportation."
+        ]
+    },
+    "30949104": {
+        "code": 30949104,
+        "name": "Oil & Gas Midstream",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30949,
+        "industry": 30949104,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in owning and operating",
+            "oilﬁeld pipelines involving the gathering, processing and",
+            "transportation of natural crude petroleum."
+        ]
+    },
+    "30950105": {
+        "code": 30950105,
+        "name": "Oil & Gas Reﬁning & Marketing",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30950,
+        "industry": 30950105,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the reﬁning, gathering,",
+            "marketing and selling of petroleum and petroleum products."
+        ]
+    },
+    "30951106": {
+        "code": 30951106,
+        "name": "Oil & Gas Equipment & Services",
+        "superSector": 3,
+        "sector": 309,
+        "industryGroup": 30951,
+        "industry": 30951106,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in providing oilﬁeld services",
+            "and equipment such as contract drilling, seismic surveys,",
+            "equipment and tool rental, pumping and processing",
+            "services, inspection and contracting services."
+        ]
+    },
+    "31052107": {
+        "code": 31052107,
+        "name": "Aerospace & Defense",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31052,
+        "industry": 31052107,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture a wide variety of aerospace/",
+            "defense products including aircraft and aircraft parts,",
+            "guided missiles and space vehicles, ships and marine",
+            "equipment and other related aerospace/defense",
+            "components and systems as, well as companies supporting",
+            "these products through repair and maintenance services."
+        ]
+    },
+    "31053108": {
+        "code": 31053108,
+        "name": "Airlines",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31053,
+        "industry": 31053108,
+        "type": "Industry",
+        "description": [
+            "Passenger airline companies that ﬂy a wide range of",
+            "domestic and international routes."
+        ]
+    },
+    "31054109": {
+        "code": 31054109,
+        "name": "Business Services",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31054,
+        "industry": 31054109,
+        "type": "Industry",
+        "description": [
+            "Companies that provide services to the commercial or",
+            "business market including information distribution, printing,",
+            "warehousing, credit reporting, graphic design, accounting",
+            "and other miscellaneous services."
+        ]
+    },
+    "31055110": {
+        "code": 31055110,
+        "name": "Conglomerates",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31055,
+        "industry": 31055110,
+        "type": "Industry",
+        "description": [
+            "Companies that are in several separate lines of business",
+            "with no single line of business providing the dominant",
+            "source of revenue or income. Also includes blank-check and",
+            "holding companies."
+        ]
+    },
+    "31056111": {
+        "code": 31056111,
+        "name": "Rental & Leasing Services",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31056,
+        "industry": 31056111,
+        "type": "Industry",
+        "description": [
+            "Companies that rent or lease various durable goods to the",
+            "commercial and consumer market including cars and trucks,",
+            "medical and industrial equipment, appliances and tools and",
+            "other miscellaneous goods."
+        ]
+    },
+    "31056112": {
+        "code": 31056112,
+        "name": "Security & Protection Services",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31056,
+        "industry": 31056112,
+        "type": "Industry",
+        "description": [
+            "Companies that provide a broad line of security and",
+            "protective services including protective or preventive",
+            "devices, security guards and inspection services, security",
+            "alarm and monitoring systems, detention and correction",
+            "facilities and other security-based services."
+        ]
+    },
+    "31057113": {
+        "code": 31057113,
+        "name": "Stafﬁng & Outsourcing Services",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31057,
+        "industry": 31057113,
+        "type": "Industry",
+        "description": [
+            "Companies that provide diverse stafﬁng and employment",
+            "services including temporary stafﬁng and permanent",
+            "placement, outsourcing and other employment-related",
+            "services to businesses and government."
+        ]
+    },
+    "31058114": {
+        "code": 31058114,
+        "name": "Engineering & Construction",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31058,
+        "industry": 31058114,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the design, construction or",
+            "contracting of industrial and nonresidential structures,",
+            "streets and highways, bridges and tunnels, docks and piers,",
+            "dams and water projects, utility lines and other large",
+            "building projects. Also includes companies engaged in",
+            "engineering consulting and architectural services to various",
+            "consumer and commercial clients."
+        ]
+    },
+    "31058115": {
+        "code": 31058115,
+        "name": "Infrastructure Operations",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31058,
+        "industry": 31058115,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in developing, ﬁnancing, maintaining",
+            "and managing of infrastructure operations such as airports",
+            "and roadways."
+        ]
+    },
+    "31059116": {
+        "code": 31059116,
+        "name": "Farm & Construction Machinery",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31059,
+        "industry": 31059116,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture agricultural and construction",
+            "machinery including tractors, planting and harvesting",
+            "machines, cranes, earthmovers, excavators and other",
+            "related equipment and machinery."
+        ]
+    },
+    "31060117": {
+        "code": 31060117,
+        "name": "Industrial Distribution",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31060,
+        "industry": 31060117,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the distribution and supply",
+            "of industrial equipment including construction and farming",
+            "machinery, garden equipment and supplies and other",
+            "industrial items to diversiﬁed market of redistributors and",
+            "end-users."
+        ]
+    },
+    "31061118": {
+        "code": 31061118,
+        "name": "Business Equipment",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31061,
+        "industry": 31061118,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and market ofﬁce and",
+            "business machines such as copiers, fax machines, postage",
+            "meters, point-of-sale terminals, ATM's and ofﬁce furniture",
+            "and ﬁxtures."
+        ]
+    },
+    "31061119": {
+        "code": 31061119,
+        "name": "Diversiﬁed Industrials",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31061,
+        "industry": 31061119,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in diversiﬁed machinery manufacturing",
+            "operations including paper and food production machines,",
+            "printing machinery, engines and turbines, air and gas",
+            "processors, blowers and fans, furnaces and ovens and",
+            "other general and special industry machines."
+        ]
+    },
+    "31061120": {
+        "code": 31061120,
+        "name": "Metal Fabrication",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31061,
+        "industry": 31061120,
+        "type": "Industry",
+        "description": [
+            "Companies that fabricate, stamp or form iron, steel or other",
+            "metals into products such as structured components, auto",
+            "and aircraft assemblies, tanks and vessels and other",
+            "industrial products."
+        ]
+    },
+    "31061121": {
+        "code": 31061121,
+        "name": "Pollution & Treatment Controls",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31061,
+        "industry": 31061121,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture equipment designed to",
+            "control pollution including control systems, hazardous",
+            "waste disposal systems, recovery systems, treatment",
+            "processes, ﬁltration systems, cleaning and separation",
+            "applications and recycling machinery."
+        ]
+    },
+    "31061122": {
+        "code": 31061122,
+        "name": "Tools & Accessories",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31061,
+        "industry": 31061122,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture small, hand-held tools",
+            "including power driven drills, welding apparatus, lawn and",
+            "garden equipment and other power or manually operated",
+            "tools and accessories such as hardware, nuts, bolts, rivets",
+            "and other fasteners."
+        ]
+    },
+    "31062123": {
+        "code": 31062123,
+        "name": "Airports & Air Services",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31062,
+        "industry": 31062123,
+        "type": "Industry",
+        "description": [
+            "Air transportation companies that provide related air",
+            "services including helicopter transportation, air-charter",
+            "services and other air emergency and business related",
+            "services."
+        ]
+    },
+    "31062124": {
+        "code": 31062124,
+        "name": "Integrated Shipping & Logistics",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31062,
+        "industry": 31062124,
+        "type": "Industry",
+        "description": [
+            "Companies that provide transportation of freight and cargo",
+            "via diversiﬁed methods such as trucks, airline, water and",
+            "railways."
+        ]
+    },
+    "31062125": {
+        "code": 31062125,
+        "name": "Railroads",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31062,
+        "industry": 31062125,
+        "type": "Industry",
+        "description": [
+            "Companies that provide transportation of passengers and",
+            "freight by line-haul railroad as well as related railroad",
+            "equipment and repair services."
+        ]
+    },
+    "31062126": {
+        "code": 31062126,
+        "name": "Shipping & Ports",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31062,
+        "industry": 31062126,
+        "type": "Industry",
+        "description": [
+            "Companies that provide transportation of freight and cargo",
+            "via water and water ways."
+        ]
+    },
+    "31062127": {
+        "code": 31062127,
+        "name": "Trucking",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31062,
+        "industry": 31062127,
+        "type": "Industry",
+        "description": [
+            "Companies that provide local and long-haul trucking and",
+            "transfer services for freight and cargo."
+        ]
+    },
+    "31063128": {
+        "code": 31063128,
+        "name": "Truck Manufacturing",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31063,
+        "industry": 31063128,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the manufacturing of trucks that",
+            "provide local and long-haul trucking and transfer services",
+            "for freight and cargo."
+        ]
+    },
+    "31064129": {
+        "code": 31064129,
+        "name": "Waste Management",
+        "superSector": 3,
+        "sector": 310,
+        "industryGroup": 31064,
+        "industry": 31064129,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the collection, treatment, storage,",
+            "transfer, recycling and disposal of waste materials as well",
+            "as companies providing supporting environmental,",
+            "engineering and consulting services."
+        ]
+    },
+    "31165130": {
+        "code": 31165130,
+        "name": "Electronic Gaming & Multimedia",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31165,
+        "industry": 31165130,
+        "type": "Industry",
+        "description": [
+            "Companies that primarily develop or publish video games",
+            "and other multimedia software applications for a variety of",
+            "devices including personal computers, video game systems,",
+            "cell phones, tablets, and other portable media players."
+        ]
+    },
+    "31165132": {
+        "code": 31165132,
+        "name": "Information Technology Services",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31165,
+        "industry": 31165132,
+        "type": "Industry",
+        "description": [
+            "Companies that provide computer technology consulting,",
+            "development and implementation services."
+        ]
+    },
+    "31165133": {
+        "code": 31165133,
+        "name": "Software–Application",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31165,
+        "industry": 31165133,
+        "type": "Industry",
+        "description": [
+            "Companies that primarily design, develop, market and",
+            "support enterprise application software including producers",
+            "of client/server software solutions for supply chain",
+            "management, document management, relational database",
+            "management, security software, ﬁnancial applications and",
+            "any other application that serves or solves a particular",
+            "business or individual need. Also includes technical",
+            "software such as design automation, analysis and",
+            "optimization, computer-aided design (CAD) and computer-",
+            "aided engineering (CAE), systems software and utilities,",
+            "and scientiﬁc and engineering software."
+        ]
+    },
+    "31165134": {
+        "code": 31165134,
+        "name": "Software–Infrastructure",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31165,
+        "industry": 31165134,
+        "type": "Industry",
+        "description": [
+            "Companies that develop, design, support and provide",
+            "software and services for various business applications",
+            "including retail automation, transactions and billing,",
+            "stafﬁng and cost-management, banking and accounting,",
+            "real-time information management and other software and",
+            "services aimed at businesses as well as companies",
+            "providing computer leasing and repair services."
+        ]
+    },
+    "31166135": {
+        "code": 31166135,
+        "name": "Communication Equipment",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31166,
+        "industry": 31166135,
+        "type": "Industry",
+        "description": [
+            "Companies that design, develop, manufacture and market",
+            "equipment for the communication industry including ﬁber",
+            "optic cable, telecom peripherals, voice and data",
+            "transmission and processing equipment, digital switching,",
+            "signaling and accessing products, microwave radios,",
+            "satellite products and equipment, voice-processing",
+            "products, call-processing systems, video-conferencing",
+            "systems & equipment, and interactive communication",
+            "systems. Includes companies that offer and provide",
+            "networking products that provide connectivity solutions for",
+            "multi-use computing environments."
+        ]
+    },
+    "31167136": {
+        "code": 31167136,
+        "name": "Computer Distribution",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167136,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the distribution, supply",
+            "and support of computers and computer systems,",
+            "peripheral equipment and software and other technological",
+            "goods to various end-users."
+        ]
+    },
+    "31167137": {
+        "code": 31167137,
+        "name": "Computer Systems",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167137,
+        "type": "Industry",
+        "description": [
+            "Companies that primarily design, manufacture, support, and",
+            "market computer systems including desktop PCs, laptops,",
+            "and notebooks, as well as high-end mainframes, servers,",
+            "and super computers. Also includes companies that",
+            "manufacture and market peripheral hardware products",
+            "including printers and scanners."
+        ]
+    },
+    "31167138": {
+        "code": 31167138,
+        "name": "Consumer Electronics",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167138,
+        "type": "Industry",
+        "description": [
+            "Companies that manufacture and market household audio",
+            "and video equipment including radios, stereos, television",
+            "sets and VCRs."
+        ]
+    },
+    "31167139": {
+        "code": 31167139,
+        "name": "Contract Manufacturers",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167139,
+        "type": "Industry",
+        "description": [
+            "Companies that design, develop, manufacture and market",
+            "printed circuit boards, circuit assemblies and related",
+            "electronic products."
+        ]
+    },
+    "31167140": {
+        "code": 31167140,
+        "name": "Data Storage",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167140,
+        "type": "Industry",
+        "description": [
+            "Companies that primarily design, manufacture, develop,",
+            "service and market data storage products for computer",
+            "based information including tape storage systems, hard and",
+            "magnetic disk drive systems, optical data storage products,",
+            "removable cartridge hard drives and other storage and",
+            "backup devices."
+        ]
+    },
+    "31167141": {
+        "code": 31167141,
+        "name": "Electronic Components",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167141,
+        "type": "Industry",
+        "description": [
+            "Companies that design, develop, manufacture and market a",
+            "wide variety of electronic devices including electron tubes,",
+            "electronic capacitors, electronic resistors, electronic coil",
+            "and transformers, electronic connectors and other general-",
+            "purpose electronics components and products."
+        ]
+    },
+    "31167142": {
+        "code": 31167142,
+        "name": "Electronics Distribution",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167142,
+        "type": "Industry",
+        "description": [
+            "Companies primarily engaged in the distribution and supply",
+            "of electronic equipment and appliances, electrical cable,",
+            "wires and other components and parts to wide array of",
+            "consumer, commercial and manufacturing customers."
+        ]
+    },
+    "31167143": {
+        "code": 31167143,
+        "name": "Scientiﬁc & Technical Instruments",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31167,
+        "industry": 31167143,
+        "type": "Industry",
+        "description": [
+            "Companies that design, develop, manufacture and market",
+            "sophisticated electronics of a technical nature, including",
+            "lab apparatus, process and ﬂow control devices, precise",
+            "measurement and signal processing tools, search and",
+            "navigation equipment, as well as other scientiﬁc or",
+            "technically based analytical or measuring devices"
+        ]
+    },
+    "31168144": {
+        "code": 31168144,
+        "name": "Internet Content & Information",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31168,
+        "industry": 31168144,
+        "type": "Industry",
+        "description": [
+            "Companies that provide Internet navigation services and",
+            "reference guide information for the World Wide Web and",
+            "that publish, provide or present proprietary, advertising",
+            "and/or third party content."
+        ]
+    },
+    "31169145": {
+        "code": 31169145,
+        "name": "Semiconductor Equipment & Materials",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31169,
+        "industry": 31169145,
+        "type": "Industry",
+        "description": [
+            "Companies that design, develop, manufacture and market",
+            "equipment, spare parts, tools, cleaning devices and related",
+            "materials for the semiconductor industry."
+        ]
+    },
+    "31169146": {
+        "code": 31169146,
+        "name": "Semiconductor Memory",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31169,
+        "industry": 31169146,
+        "type": "Industry",
+        "description": [
+            "Companies that design, develop, manufacture and market",
+            "high performance memory and memory intensive products",
+            "that retain information without power, including non-",
+            "volatile (NVM) circuits, FLASH chips, NVRAMs, static",
+            "random-access memory chips (SRAM), DRAMs, FRAMs and",
+            "ERAMs."
+        ]
+    },
+    "31169147": {
+        "code": 31169147,
+        "name": "Semiconductors",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31169,
+        "industry": 31169147,
+        "type": "Industry",
+        "description": [
+            "Semiconductor companies engaged in diversiﬁed",
+            "manufacturing activities producing integrated circuits,",
+            "microprocessors, logic devices, chipsets, and memory chips",
+            "for a wide variety of users. Includes companies that design,",
+            "manufacture and market general application integrated",
+            "circuits, such as analog and digital ICs, microwave and",
+            "radio-frequency circuits, and silicon wafer chips, as well as",
+            "companies that produce highly specialized logic devices",
+            "and related equipment."
+        ]
+    },
+    "31169148": {
+        "code": 31169148,
+        "name": "Solar",
+        "superSector": 3,
+        "sector": 311,
+        "industryGroup": 31169,
+        "industry": 31169148,
+        "type": "Industry",
+        "description": [
+            "Companies engaged in the design, manufacturing,",
+            "marketing, or installation of solar power systems and",
+            "components."
+        ]
+    }
 }
