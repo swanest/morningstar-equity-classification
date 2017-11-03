@@ -37,7 +37,7 @@ In order to enable keyword-based searches on the MECS dataset, we use a reverse 
 In order to rebuild the index run the following command from the project directory:
 
 ```shell
-$ ./bin/build-index
+$ ./bin/build-index.js
 ```
 
-(inspired from @lovehandle/naics-2012 - thanks !)
+Most of the work comes from [@lovehandle/naics-2012](https://github.com/lovehandle/naics-2012)
